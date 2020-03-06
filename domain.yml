@@ -1,0 +1,39 @@
+intents:
+  - chao_hoi
+  - tam_biet
+  - tim_thong_tin_xe
+  - dang_ky_salon
+  - phi_dang_tin
+  - dang_tin_ban_xe
+  - kiem_duyet_tin_dang_hien_thi
+  - unknown
+  - dang_ky_tin_vip
+  - tin_vip_khuyen_mai
+  - xoa_tin
+  - kiem_tra_thanh_toan
+  - kiem_duyet_tin_dang_anh
+  - hoi_thong_tin_goi_vip
+  - hinh_thuc_thanh_toan
+  - dang_tin_bi_loi
+  - sua_tin
+  - chi_phi_banner
+  - gia_han_tin_dang
+  - tu_van_dat_banner
+  - so_luot_xem_tin_rao
+
+
+actions:
+- utter_chao_hoi
+- utter_tim_thong_tin_xe
+- utter_tam_biet
+
+
+templates:
+  utter_chao_hoi:
+  - text: "Hey! How are you?"
+
+  utter_tim_thong_tin_xe:
+  - text: "Intent is car purchase"
+
+  utter_tam_biet:
+  - text: "Bye"

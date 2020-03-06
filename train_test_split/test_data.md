@@ -1,0 +1,1508 @@
+## intent:chao_hoi
+- hello
+
+## intent:chi_phi_banner
+- chao ban minh muon hoi ve gia dat quang cao len website
+- xin bao gia banner trang web a / c ?
+- a co nhu cau mua banner ben trang cua em EOL mua o chuyen muc tin tuc va chuyen muc khac EOL e tu van giup a EOL muc tin tuc . gia xe o to . so sanh xe . kinh nghiem EOL a tinh mua banner ben trang do cho re
+- ukm EOL anh hoi ve chi phi [canter](mod) va salon ben em EOL gui chi tiet vao mail cho anh nhe EOL maihonglich @ gmail . com EOL thanks em
+- minh can ho tro tu van EOL minh can bao gia banner y ma
+- gio minh dat banner cua showroom len day co mat chi phi gf ko ?
+- em muon hoi bang gia banner EOL dchi mail cua em : vanessanguyen29 @ gmail . com
+
+## intent:dang_ky_salon
+- minh muon lam 1 cai salon EOL lam the nao ban
+- m muon mo gian hang EOL co nhung cach nao de chuyen tien qua ben ban ?
+- minh muon dang ki gian hang ben ban EOL ban tu van dum minh
+- minh muon mo gian [mazda](mak) [thanh_hoa](city) EOL bao ho minh gia voi
+- cho minh hoi salon [subaru](mak) ben minh co ai dang ky chua
+- chao ban , lam on cho minh hoi la minh muon mo salon o to de ban xe EOL hien tai minh dang lam tai hang xe [ford](mak) o my dinh
+- minh muon mo salon tren web ban gia bao nhieu a ?
+- minh co nhu cau mo gian hang tren day ban tu van cho minh nhe
+- ban gui giup minh bang bao gia [dat](ver) salon vip nha EOL gui vao mail quynhnhu1292 @ gmail . com giup minh nha
+- anh mua [dat](ver) salon thi chi phi the nao ?
+- hien tai minh muon mua 1 salon thi phai lam nhu the nao
+- minh muon lam salon o to EOL thu tuc nhu the nao
+- cho minh hoi muon dang ky salon tren banxehoi . com thi phai lam nhu the nao
+- minh can tao mot salon oto phai lm sao nhi
+- minh muon tao salon
+- minh muon lam salon oto tren tranh banxehoi EOL cho minh hoi cu the nhu the nao
+- salon ben minh dang ky sao vay ban EOL ban tu van cac loai xe ha chi [toyota](mak) thoi vay
+- minh ban hang cho hang [[honda](mak)](mak) o to EOL minh muon lap 1 salon duoc khong EOL cho minh hoi dai ly [[honda](mak)](mak) o to long bien da co ai tao salon chua
+- minh muon dk 1 gian hang tren banxehoi . com
+- cho minh hoi ben minh co mo salon o to k ? EOL goi mo salon a
+- em muon co salon tren web minh EOL ma ko biet dk o dau a
+- minh dang co nhu cau tao salon oto tren banxehoi . com EOL ban tu van giup minh
+- minh la sales cua hang xe [kia](mak) [binh_duong](city) EOL minh muon lam salon o to tren banxehoi EOL va salon co chay quang cao EOL khong biet chi phi nhu the nao a
+- thu tuc ntn ban oi EOL minh muon tao salon gian hang ay EOL minh sales ben [nissan](mak) le van luong EOL chi phi va thu tuc dang ky ntn ban tu van ho minh voi
+- minh muon : ) EOL mo 1 salon o [can_tho](city) [ford](mak) khong biet dang ky dc ko a
+- cho minh hoi minh muon dang ky salon cua web
+- minh muon tao salon EOL thi phai lam the nao
+- minh muon dang ki salon thi phai lam sao vay ad ?
+- anh muon lam salon tren nay thi gia ca the nao em dc dang bao nhieu tin
+- quang cao showroom tren banxehoi . com gia bao nhieu vay ban
+- minh muon dang ky salon EOL ban co the cho minh muc gia va cac goi uu dai di kem dc ko
+- chao ban , minh can them thong tin ve dang ky salon tren banxehoi . com
+- minh hoi chut ben minh co cung cap gian hang mien phi k
+- ban cho hoi minh dang tin ban xe theo danh nghia salon thi lam ntn a
+- minh ben [mazda](mak) [thanh_hoa](city) EOL cho minh dk gian hang goi co ban voi
+- cho minh hoi dang ky mo salon thi chi phi the nao vay ?
+- minh muon dang ki 1 salon tren nay EOL phi bao nhiu vay
+- chi oi cho e hoi EOL gio e muon mua salon EOL ben banxehoi EOL thi can dieu dien gi vay chi
+- toi can mo 1 salon oto EOL tren wb minh EOL nhung toi k nam ro dc chinh sach ban co the huong dan cu the dc k
+- cho minh hoi dang ky mo salon thi chi phi nhu the nao vay ?
+- minh mun hoi salon phu my [ford](mak) co ng lam chua ban EOL neu minh mun lam thi nhu the nao a
+- chi muon hoi chut EOL chi hoi chut ve salon [toyota](mak) hung vuong cn tan tao
+- minh muon tim hieu ve chinh sach mo salon tren website banxehoi
+- a lam ben salon [[mazda](mak)](mak) [[le](ver)](ver) van luong EOL anh thay salon [[mazda](mak)](mak) [[le](ver)](ver) van luong tren web minh co ng dung ten roi EOL nhung a thay ng do it chay EOL a co the lay lai salon do dc k em ?
+- em o [hyundai](mak) hue co dang tin o tren web cua minh EOL bay h muon tao salon tren nay thi muc lam nhu the nao a
+- m muon tao salon [peugeot](mak) [thai_nguyen](city)
+- ah em EOL anh hoi ve goi dang tin va mo salon
+- minh muon mo salon tren banxehoi EOL thi lam nhu the nao
+
+## intent:dang_ky_tin_vip
+- ben em co nguoi qua thu phi ko EOL anh muon nang cap
+- trong tai khoan cua em dang co 50 k EOL em muon dang tin vip thi phai lam nhu nao
+- ban co the tu van giup minh cach de dang tin hieu qua tren trang cua ban duoc ko
+- minh moi tiep can voi wesite EOL bo ngo qua EOL minh muon tin len top
+- anh tinh quang cao co phi tren trang EOL day bai anh len top EOL chi lay may bai dang thui
+- can nhan vien tu van ve dich vu dang tin
+- minh muon dang ban xe o to , tin vip
+- lam sao de dang ky EOL dang tin EOL vip 2
+- cho anh xin so dt em EOL anh can tu van dang tin vip
+- ben ban dki goi vip nhu nao
+- cho minh hoi minh muon dang ky tin noi bat o chuyen muc thi lam the nao nhi ?
+- minh dang co nhu cau dang tin mat phi ban xe tren web
+- ban oi minh muon xe minh dang o vi tri tren dau EOL thi ben ban co dich vu do k ?
+- cho anh hoi dang tin vip ban xe tren trang minh
+- minh muon dang ky goi vip tren web
+- ban oi , cho minh hoi . bay gio minh muon nang loai tin cua minh tu tin thuong len tin vip thi lam nhu nao vay ban
+- huong dan minh mua goi vip chung 1 thang nhe
+- lam the nao dang ky tin vip
+- ban cho minh hoi EOL cho minh hoi muon dang tin len trang dau EOL minh can pai lam j EOL va chi phi la bn
+- dang tin ban xe thuong the nao , tin vip 1 the nao em oi
+- khi minh dang 1 tin thuong EOL minh muon chuyen tin thuong do thanh vip 1 hay vip 2 thi minh lam ntn
+- minh muon day tin len trang dau thi nhu the nao ban ?
+- minh muon dang tin ban EOL goi vip 1
+- cho minh hoi minh mua goi vip nhu the nao ? EOL trong dot nay co khuyen mai gi k ?
+- gio a muon dang ky goi vip do e
+- e EOL hom gtr EOL a voi e cung trao doi roi EOL bay gio EOL a muon dang bai o vip 2 EOL thi the nao e nhi
+- minh muon mua tai khoan vip pro
+- cho minh hoi minh co 200 k trong tai khoan muon mua goi tin vip 2 EOL thi mua nhu nao c
+- cho minh hoi dk tai khoan vip nhu nao ak
+- minh dang muon mua tin vip le tren minh EOL minh chi muon mua 1 tin nao do trong danh sach tin cua minh
+
+## intent:dang_tin_ban_xe
+- minh o [nghe_an](city) EOL ban cho minh sdt minh tham khao dat tin ban xe duoc khong a ?
+- minh can ban xe [innova](mod) [2006](yr) [mau_ghi_vang](color)
+- cty em muon ban 1 chiec xe tren trang web cua minh thu tuc sao a
+- minh can ban xe [hyundai](mak) [i10](mod) [2014](yr) [so_san](gear) [1.0](cc)
+- m muon ban xe [fortuner](mod) [2014](yr) , [may_xang](fuel) [so_tu_dong](gear) EOL xe di duoc 9 van thi gia ntn b
+- toi can muon tham gia dang tin ban xe o to thi thu tuc va chi phi nhu the nao
+- minh muon ban xe [getz](mod) gia dinh EOL xin vui long ho tro EOL anh dang tin vip 1 . anh kich hoat tin thi ma xac nhan thay doi lien tuc EOL anh ko dang tin duoc
+- minh muon hoi ve dang tin chut
+- cho anh hoi la anh muon dang tin ban o to tren trang web ben minh sao ko dc duyet nhi EOL chao ban nhe EOL minh ben bo phan tin dung vib huynh thuc khang a EOL minh ca the lam quen duoc ko a
+- minh can ban 1 chiec xe EOL [lacetti](mod) [se](ver) [2010](yr)
+- toi dang co chiec xe maruti super [van](sty) nhap khau [2009](yr) dinh ban .
+- toi can ban mot chiec [toyota](mak) [zace](mod) surf [mau_vang](color) , doi [2005](yr) , moi chay 78.000 km , gia muon ban la [330_trieu](price) .
+- anh muon dang ky dang tin , em huong dan giup anh nhe .
+- nho ban xe [innova](mod) [so_tu_dong](gear)
+- toi muon ban con xe dang di [honda](mak) [city](mod) [2015](yr) [cvt](gear) [5_cho](seat) , [mau_trang](color) , con moi , di hon 3 van , da boc ghe da , man hinh gps , guong chinh dien EOL [ha_noi](city) EOL duong hoang quoc viet EOL gia [550_trieu](price) co thoa thuan chut it
+- chi co dang tin ban xe tren trang em nhung khong tim thay
+- minh moi mua xe [vios](mod) [g](ver) mau_van[g](ver) doi [2016](yr) dan[g](ver) ky than[g](ver) 3 di ban duoc khoan[g](ver) bao nhieu tien EOL bien 30e EOL so_tu_don[g](ver)
+- chi ten hien EOL cho chi hoi ben e co thu xe cu k
+- cho anh hoi ti EOL anh muon dang ban xe tren site ben em EOL may cai tai khoan vip EOL tin hien thi no nhu nao nhi EOL cho anh chut thong tin nhe
+- a co xe [toyota](mak) [vios](mod) [e2009](ver) muon ban o [tphcm](city) , gia [420_tr](price) EOL [mau_bac](color) , di duoc 95 k km
+- minh can ban xe [matiz](mod) [2007](yr) - [se](ver) , chinh chu , xe [mau_bac](color) , khong biet [se](ver) dang the nao ? EOL ho tro minh voi nhe !
+- toi muon ban xe bat dau tu dau
+- minh can ban xe [mercedes](mak) dong [e240](mod) doi [2000](yr) EOL cho anh hoi gia xe [[mazda_3](mod)](mod) [sedan](sty) EOL cho hoi [[mazda_3](mod)](mod) ban dung gia la bao nhieu
+- minh muon ban xe EOL - ten xe / phien ban : [nissan](mak) [livina](mod) grand EOL - mau : nhu vang EOL - dong co : xang EOL - hop so : tu dong EOL - nam san xuat / nuoc san xuat : [2011](yr) EOL - so km : 121.000 km EOL - so huu : ca nhan / cong ty EOL - bien so : 51a . EOL - dang ky lan dau : 19 / 12 / [2011](yr) EOL - gia ban du kien : [380_trieu](price) . EOL dt : 0988839929 vinh chinh chu .
+- minh muon dang tin ban xe EOL ban co the giup minh khong ?
+- a can tu van dang tin ban xe
+- can dang thong tin ban xe
+- minh muon tham khao ve dang tin quang cao xe tren web
+- toi dang can ban xe [innova](mod) doi [2013](yr) EOL xe 1 chu moi di duoc 9 van
+- toi co xe [camry](mod) nhap doi [2009](yr) , bien [ha_noi](city) ( 30 t ) . su dung chinh chu . ben ban co mua k ?
+- minh can tu van dang tin ban [xe_tai](sty) EOL gia dang tin ban xe tren day la the nao vay ban
+- minh can ho tro huong dan dang tin o trang ah , xin cam on
+- em muon dang mat hang [xe_tai](sty) de ban thi can gi a
+- 0986941823 minh can tu van ve dang tin ban xe
+- toi can ban mot xe [camry](mod) [le](ver) [2.5](cc) nhap khau my doi [2010](yr) [sx](ver) cuoi nam [2009](yr) . xe [mau_den](color) , nguyen ban 100 % , chay duoc 103 nghin km .
+- minh muon hoi ve dang tin , vui long lien he lai voi minh nhe , 0949089769
+- c muon dang tin ban xe oto . vui long huong dan . tks
+- hi . minh co xe can ban . ben ban co mua khong
+- con[g](ver) ty toi muon ban xe [camry](mod) [2013](yr) [2.5](cc) [g](ver) , [mau_den](color) , [veloster](mod) 140.000 km EOL [g](ver)ia khoan[g](ver) bao nhieu ?
+- ban cho hoi minh la sale muon dang tin ban xe thi phuong an nao phu hop ?
+- minh muon tham gia dang tin quang cao nhe EOL ma ko biet ntn va co the mo cua hang tren web cua minh ko ? ? ? ?
+- minh ben [mercedes_benz](mak) vietnam [star](mod) , minh dang co nhu cau dang tin quang cao ben ban , co gi thu 2 ho tro giup minh . thanks
+- minh muon dang tin ban xe EOL thi lam nhu the nao ban
+- ban cho minh hoi dang ki ban xe tren ban the nao
+- toi co chiec [7_cho](seat) [mitsubishi](mak) [jolie](mod) [2003](yr) can ban EOL xe con nguyen rin kha dep va may em
+- cho minh hoi minh muon dang tin ban xe tren web cua cau thi co nhung hinh thuc nao nhi /
+- can ban xe [honda](mak) [civic](mod) [1.8](cc) [mt](gear) , [2013](yr) [mau_den](color)
+- cho em hoi EOL em muon ban xe [ford](mak) [laser](mod) [2003](yr)
+- anh muon ban xe hoi [mazda_3](mod) doi [2017](yr)
+- can ban lai xe [toyota](mak) [previa](mod) [at](gear) san xu[at](gear) [2010](yr) gia ban [135_trieu](price)
+- anh muon dang tin ban xe hoi
+- chi muon dang ban xe EOL ben em cho dang mien phi ha em EOL hay co dich vu nao de luon noi tren trang dau khong
+- a du dinh lam tin ban o to hoac salon o to EOL e tu van qua cho a dc k ?
+- minh muon dang ban xe o to EOL ma khong dang duoc EOL ha co the ho tro minh dc khong
+- toi can dang ban 01 xe [innova](mod) doi [2014](yr) de giai quyet viec gdw dang nhu nao vay EOL khu vuc [thanh_hoa](city)
+- cho hoi ben ban co mua xe hoi da qua su dung cua nhat khong ?
+- minh muon ban xe [toyota](mak) [vios](mod) [2011](yr)
+- minh muon dang tin ban xe EOL thi phai nhu the nao
+- minh muon ban xe o to cu da qua su dung EOL ben ban co the giup minh dc k a
+- chi muon ban xe EOL can ban [ford](mak) [everest](mod) nam [2010](yr) [mau_den](color) chay dau [so_san](gear) EOL cach thuc ben em the nao
+- anh hoi chut EOL anh muon dang tin ban xe EOL mua goi vip pro 4.200.000 ngam EOL giam 30 % la sao va tang 1 salon la sao
+- xin chao . . toi ten tuyen , toi muon ban xe vay dang ky nhu nao . xin cam on .
+- toi dang co nhu cau ban xe [camry](mod) [le](ver) [2010](yr) EOL ngoai trang dang tin ben ban giup lam moi gioi duoc khong EOL toi o tp . [hcm](city)
+- minh muon ban xe [matiz](mod) doi
+- sao minh dang tin ban xe ko dc vay EOL hay phai lap tai khoan moi dang tin dc
+- toi muon ban mot chiec xe oto EOL ben do co nhu cau mua ko
+- minh muon dang tin quang cao
+- ben ban mua o to cu k EOL xe [camry](mod) doi [2001](yr) dang ky nam [2003](yr) EOL xe [mau_xanh_lam](color)
+- toi muon dang tin ban xe EOL vip EOL toi se lam nhu the nao ban co the tu van giup toi EOL 0987984 EOL 0987984981
+- toi muon dang tin ban xe EOL vay [fairy](mod) lam the nao
+- chi hoi EOL dang tin voi
+- minh muon ban xe [transit](mod) [16_cho](seat) [mau_trang](color) EOL doi [2014](yr)
+- ve van de dang tin
+- m ban xe [hyundai](mak) EOL minh muon dang tin EOL ben ban la bao nhieu tin mien phi vay ?
+
+## intent:dang_tin_bi_loi
+- ten lien he khong hop le EOL minh dang tin cu bi bao nhu the la tn ? EOL ben minh cho kiem duyet tin dang lau qua !
+- sao a ko dang dc tin e nhi
+- hien tai toi k the dang tin EOL ban co the xem giup toi
+- ban oi , sao minh dang tin ban xe hoi khong duoc EOL minh dien day du cac buoc roi EOL nhung bam nut xem truoc thi ma xac nhan bat thay doi lien tuc
+- cho minh hoi chut EOL minh vua dang tin moi EOL sao khong dang duoc ban nhi
+- sao dang tin ban oto ko dc vay em ? EOL co the ho tro giup anh dc ko ?
+- e oi sao a k dang bai duoc
+- sao anh dang ko duoc vay
+- sao tai khoan cua minh ko dang tin dc nua EOL co van de gi vay ad
+- minh co thu dang tin len nhung k duoc
+- ban cho minh hoi : sao minh ko dang tin ban xe dc EOL tai khoan : 0941049622
+- chi dang tin ma sao hom nay ko dang duoc EOL phan thong tin lien he ko chiu hien thi so dien thoai
+- co ai k EOL minh dang dang tin rao ban xe nhung minh danh ma dung cu bao sai
+- sao minh dang tin ma ko dang dc EOL no hien ra xac nhan ma hoai
+- sao dang tin ko duoc vay EOL sdt 01223666382
+- ban oi sao minh dang tin lan dau ma khong dang duoc vay ? EOL cu keu minh go sai ma xac nhan
+
+## intent:gia_han_tin_dang
+- tin dang het han thi lam the nao de gia han vay e ?
+- giup minh voi ad oi tin da dang gio muon up lai phai lam nhu the nao
+- tin het han dang lai sao khong duoc
+- minh muon dang tin lai lam sao ban ?
+- tin cua minh da het han , bay gio minh muon gia han va sua tin thi lam cach nao ?
+- cho chi hoi EOL tin dang het han , soan cu phap nao de gia han vay add EOL va cach chuyen len goi vip 1 ? ?
+- em kiem tra giup anh sao nhung tin het han khong gia han lai duoc
+- sao minh mun dang lai tin het han ko dc nhi EOL bxhlink
+- tin dang cua minh het han EOL minh muon up nhung ko duoc
+- minh can dc tu van EOL minh co dang tin o trang nay EOL nhung bay gio tin da het han EOL thi minh phai lam sao de dang lai
+
+## intent:hinh_thuc_thanh_toan
+- e oi EOL [chr](mod) nap tien bang the cao dien thoai EOL sao bua nay ko duoc ho tro vay
+- chao ban , toi khong co the tam , thi nop tien bang cach nao ?
+- minh la nu EOL minh muon nap tien vao tk EOL the cua minh la [jac](mod) the visa EOL sao ben ban ko chon dc phuong thuc thanh toan bang visa vay
+- chi muon thanh toan phi tin le vip 1 EOL qua internetbanking EOL cho chi so tai khoan
+- minh dang tin EOL muon dang bang dt EOL ma h no bat phai nap the EOL trong khi h minh dung tra sau EOL nen muon no tru luon trong dtd dc k
+- toi co dang ma tin 1310435 EOL ban cho hoi lam sao de thanh toan ?
+- em oi , chi muon quang cao thi hinh thuc nop phi nhu the nao ?
+- minh co qua thu tien ko em
+- cho minh hoi vua dang tin vip 2 voi ma tin 629237 EOL minh muon thanh toan can lam gi
+- dang tin co phi ben minh ko co dich vu [sm3](mod) phai ko
+- cho minh hoi dang tin ban xe thanh toan bang tai khoan so dien thoai di dong duoc khong vay ?
+- ban oi minh nap tien cho tin dang o noi dung minh ghi nhu the nao vay ban
+- em oi EOL co cach nao chuyen khoan EOL chi dang tin vip pro EOL truoc chi dang may tin roi , gio quen cach vao cho nao lay tk de chuyen tien y nhi
+- minh hoi b chut EOL hinh thuc thanh toan tien phi dang bai ntn ha b ?
+- minh khong thanh toan dc theo cach nap tien chuyen khoan
+- hi ban ! toi mun dang tin ban xe , cach thu phi cua ban ntn ? ?
+- yen oi , anh dung the tam cua jac nap tien ma khong duoc EOL co the cho anh so tk ngan hang cua cty de anh chuyen tien vao khong ?
+- em dang thac mac la dang ky tin vip theo goi thi thanh toan bang cach nao a
+- minh muon thanh toan de dang tin ban xe
+- chi giai quyet giup em tin dang ban xe EOL 644328 EOL tin ma EOL theo yeu cau vip 2 EOL 30 k / thang EOL em chuyen khoan nhu the nao nhi
+- minh muon chuyen khoan , cty co tai khoan cua [jac](mod) ko EOL de dang tin
+- co ai o do ko nhi EOL minh muon chuyen tien tai khoan de nap EOL ben ban co tk techcom ko
+- minh muon dang vip nap tien sao ha b
+- khong co thu tien qua tin nhan a em
+- toi co the nap tien vao tk nhu nao
+- hom nay ben minh co lam viec k EOL anh chuyen tien de dang tin EOL ben minh co nhung tai khoan nao nhi
+- la minh muon nap tien vao tai khoan minh dang dung thi ntn a EOL chuyen khoan qua internet banking
+- a muon dang tin vip 2 thi nhan tin the cao dien thoai la duoc a
+- ben minh ko cho nap tien bang the cao dt nua a yen
+
+## intent:hoi_thong_tin_goi_vip
+- cho minh hoi tin vip 2
+- minh vua nop tien mua goi tin vip 1 EOL thay bao duoc tang gian hang dung ko a
+- cho minh hoi , dang tin vip 1 la nhu the nao ah dung ?
+- em tu van gium a mo goi dang tin hieu qua
+- cho a hoi ben minh h co may goi cuoc vay EOL a muon mua goi cuoc dang tin
+- cho minh hoi ve trang web ben minh dc khong ban EOL minh muon hoi ve may goi dang tin vip EOL minh muon hoi EOL thi co the noi qua cho minh dc khong ban
+- xin tu van giup minh ve cac goi dang tin trong banxehoi
+- cho minh hoi chut EOL ban xem giup minh bao gia tin le 56.000 EOL la mot tin keo dai mot tuan a ban EOL minh xem dang ko hieu lam goi vip 1 y
+- minh dinh lam mua goi vip tren web EOL ma nhin thay nhieu vip qua EOL ko biet theo vip nao ? dc bao nhieu tin ?
+- ban oi cho minh hoi EOL cai goi vip1 voi vip2 EOL no khac nhau gi vay ban EOL minh co doc tren trang ma ko co ghi chuc nang cua goi la nhu the nao
+- chao ban minh co chut thac mac . gio minh muon dang tin goi le theo ngay tin vip 1 vay neu nhu thoi gian dang tin la 30 ngay thi minh se phai tra so tien la 240 nghin / 1 tin dang vip 1 trong 30 ngay a ?
+- bay h muon dang ky vip EOL minh muon xem quyen loi cac goi vip EOL thi vao dau vay ban
+- goi probe gia nhieu em ? EOL co kem salon khong em
+- ve goi tin rao EOL ban co the ho tro minh ko ?
+- hi ban EOL minh muon mua goi vip pro cho tin dang cua minh trong 2 ngay EOL thi co dc ko EOL hoac goi vip 1 trong 7 ngay
+- a can dang tin len trang EOL neu vip pro tin le 1 thang la 1 tr2 dung k e
+- a can tu van goi dang tin
+- em hoi ve goi tin vip 2
+- cho minh hoi goi vip 2 EOL la nhu the nao
+- tu van giup minh cac goi tin dang
+- ban oi cho minh hoi cac goi dang tin ten web nay di ban
+- neu dang ki goi vip 1 EOL thi 1 ngay duoc dang bao nhieu tin EOL va 1 thang bao nhieu tin
+- cho hoi goi vip 1 dang ki goi 3 thang duoc ko EOL co hoa don va hop dong ko
+- toi mun dang tin EOL hay tu van cac goi EOL 0906765659 EOL co gi alo
+- minh can hoi ve goi tin vip 2
+- minh co dang 1 tin len bai viet EOL minh muon luot tuong tac cao thi bao gia cua nha minh ntn vay ban nhi
+- ban cho minh hoi khi tao tai khoan tren banxehoi . com thi co mat phi kg EOL hay la dang tin moi mat ?
+- alo ben ban co ban tu van ten van anh ko EOL minh can goi dien tu van goi dang tin vippro EOL 0963 854 883
+- a dang tham khao xem co goi dang tin xe ko EOL co cai goi [2_tr](price) / 1 thang dung ko e la nhu nao ay nhi EOL co dua ban a tu van
+- a mun hoi goi vip 2 duoc dang bao nhieu tin em
+- minh can tu van goi tin rao vip pro theo tuan de trai nghiem thu a EOL hotline cua minh la : 0939727571
+- goi vip chung nhu nao anh chi oi
+- mih muon dang ky goi vip chung EOL ban co the mo ta cho minh quyen loi khi dk goi do k
+- cho minh hoi 1 ti ve thong tin dang bai EOL web minh ko co ban goi vip ha ban ? EOL hay la dang tin nao tinh tien tin do EOL minh ko thay ban goi vip
+- tin vip 1 [se](ver) nam o vi tri nao khi minh go tu khoa
+- chi oi cho hoi cai bang bao gia cua minh the [[kia](mak)](mak) la nhu nao a ? EOL vi du nhu goi tin vip 1 la 240 k / 1 thang thi la dang 1 tin hay nhieu tin ? EOL voi phi tu dong up tin thi la phi rieng phai tra them chu ko trong cai goi 240 k [[kia](mak)](mak) phai ko ?
+- ban giai thich ro hon gium minh goi tin vip 1 nhe
+- chi oi cho e hoi EOL loai dang tin vip 2 1 vs vip thuong la ntn ? EOL y e hoi o day la loi ich cua tung vip do
+- minh co mua goi vip2 800 k la ntn ban nhi EOL ko up dc tin hang ngay a ban ? EOL ban mail lai giup minh qua tantaiauto99 @ gmail . com hoac dt 0964410958 nhe . tks all !
+- cho a hoi EOL goi vip 1 dc dang bao nhieu tin 1 lan
+- minh tinh mua goi tin vip 1 EOL ban co the gui mail cho minh thong tin ve goi nay dc ko ?
+- minh co tin rao ban xe gio minh muon up tin vao vip 2 lam nhu the nao ban . minh thay bao gia vip 2 theo thang la 30 k dung khong
+- minh muon hoi ve cac goi dang tin EOL ban co the tu van giup dc ko
+- xin cho hoi neu su dung de dang tin ban xe nhieu tinh va nhieu dong xe thi toi nen sai goi dang tin nao de thuan tien
+- minh dang co nhu cau su dung dich vu dang tin theo goi cua ben ban EOL ban co the tu van de minh ro hon duoc k EOL cam on ban
+- a dang can tu van goi vip pro
+- vip 1 240 k / thang toi da bao nhieu tin dang
+
+## intent:kiem_duyet_tin_dang_anh
+- sao minh dang tin ma hinh anh ko hien thi ?
+- minh vua dang 1 tin thuong len trang banxehoi . com nhung khong thay hien thi dc anh EOL vay day la loi hay tin thuong k hien thi dc anh vay ban
+- cho a hoi , a dang tin thuong ban xe nhung khi a dang anh len va vao tin thi ko thay hien anh len la tai sao nhi EOL ban tu van giup minh nhe EOL 0981337666
+- chao admin , minh moi dang tin nhung khong hien thi hinh anh tren tin dang
+- ban cho minh hoi sao minh co dang hinh ban xe [innova](mod) ma sao ko thay hinh hien len tren ?
+- minh moi cap nhat hinh anh cho tin 1741109 EOL minh thay trong phan quan ly tin dang thi da doi hinh EOL nhung luc tim kiem tin dang cua minh tren web EOL thi minh thay tin dang cua minh van con hinh anh cu EOL csx kiem tra giup nhe
+- sao minh dang bai len ko co anh nhi EOL ma minh da up anh len roi EOL sao ko co anh vay EOL ?
+- ban oi hqua minh co dang tin tren banxehoi . ma ko thay hien thi hinh anh EOL bxhlink EOL gio lam cach nao ? ? ?
+- minh moi dang tin nhung sao minh thay tin ko hien hinh anh [navara](mod) vay ban
+- anh dang tin sao up hinh len ko dc em ?
+- toi co dang tin ma so : ma tin : 1697423 EOL sao lai khong thay hinh anh nhi
+- duyet bai dum nhe EOL moi dang 30p truoc EOL sao bai anh dang co hinh no ko hien thi hinh anh vay
+
+## intent:kiem_duyet_tin_dang_hien_thi
+- minh dang tin ban xe tren trang web nay sao tim mai khong thay nhi
+- ve tin dang EOL tin minh dang 1 thoi gian rui EOL ma chua dc duyet
+- duyet dum minh tin ban xe di ban
+- minh co dang tin ban xe tren web ben ban EOL sao 2 ngay chua duoc kiem duyet ban nhi
+- sao minh tim khong thay tin minh dang vay ? ma tin : 1900398 va 1900238
+- dang tin cho anh chua
+- ban duyet gium minh tin 17325 . cam on ban EOL 1733225
+- banxehoi cho hoi ma don hang 150724 da duoc up chua a ? EOL ban xe [hyundai](mak) [solati](mod)
+- chi duyet bai giup em voi a EOL e dang bai tu chieu nhung thay chua dc duyet
+- em xem dum tin vip 2 cua anh dang sang gio chua dc duyet
+- xe minh dang sao chua duoc kiem duyet het vay a
+- vui long thong bao cho minh biet tai sao cac bai dang cua minh lai khong dc duyet de con sua EOL cac bai cu dang ma khong duoc duyet thi dang den bao gio
+- hom qua minh co dang tin ban xe , sang nay minh vao ma khong thay tin cua minh EOL ban xem giup minh voi
+- kiem tra tin 1933967 sao ben minh kiem duyet tin lau qua EOL 0965859990 sdt minh
+- e oi ! a vua dang bai e giup a duyet nhe
+- bxhlink EOL xem dum anh sang gio chua dc duyet em
+- bxhlink EOL xem ho minh tin rao nay sao van chua thay hien thi
+- da chi , em co dang may tin ma ben minh khong duyet a EOL khong biet sai quy trinh cho nao chi a
+- co the cho anh hoi ti ve van de dang tin dc ko a EOL 1 so bai dang cua a EOL cung da 3 , 4 ngay EOL nhung van chua dc duyet
+- a dang [[santafe](mod)](mod) nhieu lam EOL ma search [[santafe](mod)](mod) chang thay dau ca EOL [tucson](mod) con len tot em a !
+- khi nao thi xe dc xac thuc dang ban
+- chi co the kiem tra giup em sao bai cua em khong duoc duyet khong a
+- tai khoan cua e da dang vip1 EOL sao khong thay vay c EOL da tru tien rui ma EOL nguyenminhtuan5 @ gmail . com do c
+- ban xem kiem tra va duyet giup minh cai nha EOL 1551204 EOL cam on e EOL tai a thay chua duyet
+- chao ban , sao minh dang tin ma tin van cu hien la dang cho kiem duyet vay nhi
+- ban oi sao hom nay duyet tin lau vay EOL minh up khoang 1h ma van chua dc duyet
+- cho e hoi ti a , s e dang len ban xe o tin thuong , thi bai viet k duyet vay a
+- cho minh hoi , sau minh dang tin thanh cong ma tin 865015 , nhung khong thay hien ra o trang tin ban oto vay ? EOL ho tro giup minh tim xem o dau vay ? hay chua the dang tin duoc ?
+- toi da hoan tat tin dang ban xe ma chua thay dang EOL ma tin 1395584 EOL : d
+- ban kiem duyet bai dang giup minh
+- minh dang tin roi ma sao ko thay
+- minh vua dang 1 tin vip 2 EOL nhung sao ko thay hien len nhi
+- duyet giup tin nhe
+- hom qua co thanh toan cho ma don hang 139448 - 82.670 d nho ban kiem tra lai giup sao chua thay dang tin EOL tin dang vip 2 nha ban !
+- e dang bai tu som EOL ma sao van chua ai duyet vay
+- yen a anh co dang tin ban xe EOL nho yen phe duyet ho anh cai
+- ban giup minh chut nhe EOL duyet giup minh may tin ben tk cua minh voi
+- 362012 ma tin do sao lau duyet vay bqt
+- xem ho minh tin nay sao chua dc dang EOL 1321349 EOL minh nap du tien roi sao ko trang thai chua doi
+- tai sao tin cua toi khong duoc duyet 1887391
+- em la thanh vien moi , moi dang bai len trang cua minh EOL chi kiem tra duyet giup em som duoc ko a EOL neu trang minh em thay ok thi em chay qc a
+- em co dang tin vip 2 EOL ma tin EOL 1628493 EOL dang tu hom qua EOL den hom nay thay van dang cho duyet EOL co lau qua khong a chi
+- tin minh dang hom qua den gio chua dc kiem duyet
+- ban oi EOL check dum minh tin 1972389 sao dang tu trua , ma van chua dc duyet a : ( EOL voi san duyet lun dum minh 1972740 nha
+- ban oi cho minh hoi thoi gian cho kiem duyet tin dang vip2 thuong la bao lau vay
+- kiem duyet tin qua lau em oi EOL bonbanh . com EOL muaban . net EOL chottot . com EOL kiem duyet khoang 30p
+- minh dang tin tu hom qua EOL den bay gio van EOL quote cho kiem duyet quote EOL ben ban kiem duyet quote ky quote nhi ? EOL khong biet qui trinh kiem duyet va thoi gian cua ben ban nhu the nao ?
+- ad duyet ho bai giup e voi nhe
+- sao anh vao trang chu banxehoi EOL search [sp](ver) EOL ma ko thay tin cua anh hien ra nhi ? EOL toan thay tin cua cac nha khac ? EOL trong khi tin cua anh cung dang ky vip 2 ? ? ?
+- alo hom nay ben minh co lam viec ko em EOL sao tin dang cua anh ko duoc kiem duyet
+- chao ban . . . minh vua dang ban xe [ford](mak) [transit](mod) doi cuoi [2006](yr) , nho ban up tin len de ai co nhu cau mua xe thi lien he voi minh nhe
+- yen xem giup anh co may tin anh dang ngay 18 , van thay chua duyet
+- a dang tin ma sao van chua dc duyet vay e EOL tu hom 11 ma den hom nay van chua duyet
+- ban oi duyet dum minh tin nay EOL ban oi minh co may tin tu hom thu sau ma den hom nay van chua duoc duyet
+- toi dang tin ban oto da qua su dung EOL da bao dang tin thanh cong EOL nhung khong biet tim o dau
+- bem em duyet cho anh tin nay nha . qua nay hok ai duyet EOL bxhlink
+- duyet ho minh may tin vua dang nhe
+- chi duyet giup em tin dang nhe . !
+
+## intent:kiem_tra_thanh_toan
+- vip 1 , ma tin 1757583 - so dt 0942755106 EOL chi moi chuyen tien dang tin nay EOL em up tin giup chi nhe
+- xin chao , toi vua dang tin ban xe goi vip 1 nhung he thong [van](sty) thong bao la chua du tien thanh toan ( trong khi tk chinh cua toi co 288000 d ) EOL ma tin dang 947440
+- hom 9 / 3 minh co nap 200.000 vao tai khoan EOL nhung den hom nay van chua thay tien vao tai khoan EOL yen ngoc kiem tra giup minh voi
+- kiem tra giup minh xem ck da noi tien chua
+- [trax](mod) anh nap tien vao tk ben em chua thay noi de anh dang tin EOL ma id 5419
+- chao chi , em vua chuyen khoan nap tien ben minh ay a ? vay khi nao em moi cap nhat duoc vay chi ?
+- cho minh hoi EOL minh moi ck vao tk 200 k EOL sao tk cua minh van chua dc cap nhat tien
+- gui ban quan tri website banxehoi . com EOL tai khoan quyetcar cua minh sang nay co thuc hien nap tien thuong voi gia tri 60 k . da thong bao tru tien trong tai khoan cua minh nhung thay tien trong tk cua bxh EOL cua minh ko co tang tuong ung EOL rat mong ban quan tri ho tro
+- a ck tu thu 7 EOL ma h tai khoan k cap nhat cho anh EOL chuyen khoan tu thu 7 EOL e kiem tra ho a cai
+- minh hoi chut EOL minh nap tien vao de dang tin minh chuyen khoan ma chua thay co tien nhi
+- ban oi EOL minh co vua * * * thanh toan phi dang tin ve dong xe [toyota](mak) [vios](mod) cua minh la 260.000 roi ma sao minh up tin van chua dc ban nhi
+- minh moi thanh toan cho ma tin vip cho so dt 0902666677 EOL mai ban kiem tra giup minh nha EOL minh da bi tru tien ma ko thay tin dang cua minh o dau het
+- chi da chuyen tien de dang tin thi den khi nao moi thay tin minh dang ?
+- em kiem tra ma kh 35899 dum a EOL a can dang tin cai
+- minh da chuyen tien EOL ma tk van bao o EOL 0331000444295
+- ben em hom qua co chuyen khoan cho ben chi so tien 280 ngan EOL de dang tin vip EOL nhung chua co thay tien chuyen vao tk cua em EOL de em kich hoat dang tin
+- chi da thanh toan EOL tin dang EOL 240 k EOL 1700618 , dang tin vip 1 concat 0942755106 EOL day em nhe EOL em dang tin giup chi nhe
+- a nap tien vao tk oy EOL sao chua thay bao co tien nhi
+- em da nap thu 200 nghin ngay 24 / 5 / 18 , EOL nhung hien tai tk van 0 dong
+- anh cung vua nop tien 300 k vao tai khoan EOL em xem xac nhan cho noi tin giup anh
+- minh nho ban chut EOL minh vua thanh toan mua goi vip 1 ben banxehoi . com EOL sao chua dc ban nhi ?
+- anh vua thanh toan ma tin 1696877 ko biet dc chua e EOL sao ko thay tin anh dc dang bai
+- em oi EOL sao hotline banxehoi anh goi khong duoc vay EOL anh co chuyen vo 800 ngan ma k thay add vao tai khoan
+- minh co chuyen khoan cho ben ban EOL gan 20 sao chua thay tien trong tk cua minh nhi ?
+- chi da nhap tien roi , em huong dan chi cach dang tin ban xe nhe
+- ban oi cho minh hoi chut EOL minh vua chuyen khoan cho ben ban ma van chua thay ben ban cong dich vu cho minh
+- minh moi chuyen 1080 k vao tai khoan cua hieu dang ki goi vip 2 EOL ban kiem tra lai giup minh nhe
+- 1268230 EOL tin nay minh da [thaco](mak) toan tien EOL nhung bao chua thanh toan
+- minh da nap tien roi nhung van chua dang tin duoc
+
+## intent:phi_dang_tin
+- phi dang tin ben em bao nhieu thi duoc len trang dau EOL tinh theo goi hay nhu the nao em nhi
+- goi cuoc dang bai vip la bao nhieu e
+- a muon hoi dang tin vip do e EOL e co [tata](mak) bao gia ko
+- minh muon tim hieu ve muc phi dang bai tai web minh theo thang
+- em muon biet gia dang tin cua web la bao nhiu 1 nam vay ban
+- gio muc phi cho vip 2 nhu nao do chi
+- minh muon dang tin vip 1 thi gia nhu nao b oi
+- minh muon dang tin ban xe EOL dang o trang do EOL cac ban co the gui tin cho minh EOL va phi bn
+- em muon hoi dang tin tren ban xe hoi a EOL vi du em muon dang tin tren trang chu luon a , thi gia la bao nhieu mot thang a
+- dang tin vip pro bn tien 1 thang ha ban
+- minh hoi ve gia dang tin EOL minh thay tin dang vip 1 la 8000 d mot ngay trong khi vip 2 la 30.000 d la sao ?
+- minh dang muon dang tin len trang cua ban EOL cho minh hoi chi phi va cach thuc de tin ban duoc len dau EOL so dien thoai cua minh 0986311362
+- dang tin tren trang minh tinh phi the nao [v](ver) ban EOL tin thuong thoi
+- minh muon dang tin ban xe o to da qua su dung EOL phi dang tin la bao nhieu vay ban
+- c dang quan tam den dich vu tin vip EOL em alo bao gia cho chi EOL 0989853775
+- muon dang tin tren trang chu phi bn vay ?
+
+## intent:so_luot_xem_tin_rao
+- admin cho minh hoi EOL minh muon xem so luot nguoi xem tin rao cua minh EOL thi vao phan nao xem EOL thanks
+
+## intent:sua_tin
+- em muon thay doi thong tin trong bai dang EOL ma ko muon sao chep thi phai lam sao
+- minh muon thay doi thong tin da dang bang cach nao ban nhi
+- alo , sao sua tin lau roi ma k cap nhap vay chi EOL tin e la tin co phi ma sao e thay k sua cho em
+- anh oi cho em hoi em co dang tin ban xe tren we nhung ma em nham gia em muon sua gia ma khong nho tai khoan ma mat khau thi lam the nao anh o
+- toi can ho tro EOL minh can sua thong tin salon va tin ban xe
+- ban oi EOL minh co dang tin ban xe , nhung dang luc ko co dang nhap EOL minh muon sua lai noi dung tin dang thi phai lam sao
+- toi dang tin ban xe nhung go nham so dien thoai . chi chi giup toi cach sua lai voi . xin cam on
+- e oi , c co dang ban xe , bay gio muon sua lai gia xuong con [350_tr](price)
+- luc truoc toi co dang 1 tin ban xe bay h muon sua tin do thi lam sao EOL ban co the chi cho toi cach sua duoc khong vay
+- ban oi muon sua bai da dang nhu the nao vay
+- e oi EOL cho c hoi ty EOL cho c hoi chut EOL cho phan dia diem dang tin minh co thay doi duoc k e nhi EOL c thay ghi mac dinh la [ha_noi](city) EOL phan day co thay doi duoc o tinh khac k
+- minh tim van anh ma ko thay EOL tien thi ban sua ho minh ma tin EOL 801465 EOL thanh xe [kia](mak) [carens](mod)
+- xin loi chi cho em hoi EOL em muon thay doi thong tin trong bai dang EOL ma ko muon sao chep thi phai lam sao
+- chi oi e dang ma co 1 loi neu e muon chinh sua bai viet thi co duoc khong vay ?
+- may tin dang cua minh co sua lai tin dang nhung ko sua duoc phan nam san xuat [2018](yr) EOL co the ho tro giup duoc ko a
+- anh muon sua tin da dang thi lam the nao em
+- anh vua chuyen gia sang thanh 333 EOL em cap nhat giup anh EOL cua anh la vip 2 412120
+- web sua tin ko duoc [kia](mak) ban
+- chi oi e hoi chut a EOL e muon thay doi cai nam san xuat EOL trong bai dang EOL vi tin het han EOL nen e dang lai EOL va sua 1 so noi dung EOL nhung ko sua duoc 1 so phan
+- trong thong tin mo ta ban xe , chi co nhap nham nam san xuat , vay cai nay minh co sua duoc ko e ?
+- c sua gia tin sao k thay dc e oi
+- minh muon doi thong tin ban xe oto thi lam the nao ha ban ? EOL minh muon thay doi gia ban xe oto [mazda](mak)
+- minh vua co dang tin ban xe vip 1 , minh co up anh xe nhung gio xem lai tin dang thi khong co , gio minh muon up bo sung phai lam the nao , minh khong dang nhap bang tai khoan
+- anh muon sua tin da dang thi lam sao em
+- cho sua tin dang o dau b
+
+## intent:tam_biet
+- goodbye
+
+## intent:tim_goi_vay
+- cho hoi xe ben [thaco](mak) [fd900](mod) tra gop den bao nhieu % gia tri xe vay ban ?
+- minh muon mua xe cu tra gop thi thu tuc the nao ban
+- toi muon hoi ve viec tra gop mua xe [yaris](mod)
+- minh dinh hoi mua xe ko can tra truoc EOL tra 7 hay 10 nam vay ban EOL ci ho tro ko can tra truoc ko
+- dieu kien mua xe tra gop la nhu the nao vay ban
+- chao dung ! toi muon hoi mua tra gop [kia](mak) [morning](mod) [322_trieu](price) . thu tuc co don gian khong
+- minh muon mua 1 chiec xe oto EOL gia nhu the nao ban EOL va neu tra gop thi lai suat la bao nhieu
+- minh can tu van ve thu tuc mua xe tra gop cu EOL minh muon mua xe [gentra](mod) [sx2010](ver)
+- toi o [soc_trang](city) muon mua xe tra gop duoc khong ?
+- cho toi hoi mot so noi dung ve mua xe tra gop
+- xe nay co ho tro tra gop 90 % phai ko a EOL raovat
+- ban co the noi ro hon ve chi phi mua xe tra gop khong EOL dang quan tam xe [vios](mod) [2017](yr)
+- minh muon mua xe tra gop EOL ban tu van giup minh
+- voi don[g](ver) xe for EOL [16_cho](seat) ben minh dua truoc khoan[g](ver) [280_trieu](price) minh muon tra tron[g](ver) von[g](ver) 5 nam EOL ban cho minh mot vai thon[g](ver) tin ve chinh sach cua con[g](ver) ty ben ban va nhun[g](ver) quyen loi cua n[g](ver)uwoif mua EOL cho hoi cac tinh nan[g](ver) moi tren [[[vios](mod)](mod)](mod) [[g](ver)[2015](yr)](ver) EOL [[[vios](mod)](mod)](mod) [g](ver) [2015](yr) khac [g](ver)i ban [[[vios](mod)](mod)](mod) [g](ver)2014
+- minh muon mua xe tra gop EOL nhung khong chung minh thu nhap duoc EOL co cach khong ban , vi cong ty minh khong tra luong qua tai khoan
+- minh o [hai_phong](city) EOL minh muon tham khao gia xe va mua ban tra gop nhu nao , ban co the tu van cho minh duoc khong
+- ho tro mua xe tra gop the nao the
+- minh muon hoi thong tin ve [civic](mod) doi [2011_tro_lai](yr) day EOL minh muon hoi ve vay tieu dung EOL ban co the ho tro khong ?
+- toi dang quan tam den chiec [pajero_sport](mod) [mt](gear) [may_dau](fuel) EOL xin cho bao gia chi tiet mua tra gop EOL du dinh gop 5 concat 6 nam EOL mua xe muc dich kinh doanh
+- xe [innova](mod) [g](ver) doi [2008](yr) da ban chua , nieu chua ben chi co ban xe tra [g](ver)op o dak_non[g](ver) khon[g](ver)
+- moi thang tra bao nhieu , lai suat nhu the nao ?
+- toi muon mua xe EOL gia tu [400_concat_500](price) t EOL xe [land_cruiser](mod) [2003](yr) EOL toi muon tra gop
+- toi can mua chiec xe [mitsubishi](mak) ma dong tien mua thieu thuc toi co the tra truoc bao nhieu roi con co the ngan hang ho tro ko 0979372545 ( [mpv](sty) )
+- cho e hoi . vk * * * e lam co quan nha nuoc . thu nhap khoang [15_tr](price) mot thang . nhung lai cong tac o vung sau vung xa vay co duoc ho tro vay mua xe tra gop ko a . xin cam on
+- toi muon hoi ve vay tra gop cho oto cu
+- minh muon mua xe cu ma qua ho tro tra gop cua ngan hang dk ko ban
+- toi muon mua xe [hyundai](mak) [i10](mod) doi [2013](yr) dang ra ban bang tra gop EOL toi can ho tro mua xe tra gop
+- toi can mua chiec [spark](mod) [van](sty) [2010](yr) gia dinh su dung EOL xin vui long tu [van](sty) ve viec ho tro tai chinh ntn ? EOL 0982397845 sdt cua toi
+- a can tu [van](sty) mua tra gop xe hoi EOL cu the a muon mua [kia](mak) [morning](mod) [van](sty) EOL loai [2_cho](seat) . EOL a o [hcm](city) EOL co ngan hang nao ho tro 90 , 100 % ko em .
+- cho minh hoi thu tuc mua tra gop tren website
+- ben minh ho tro cho vay tien mua xe tra gop ak
+- toi muon mua [vios](mod) [g](ver) EOL tra truoc [300_trieu](price) EOL con lai vay EOL vay han[g](ver) than[g](ver) toi phai tra bao nhieu ? EOL vay 5 nam
+- toi muon mua xe , tra gop nhu the nao ? bao nhieu lan , moi lan bao nhieu tien ?
+- toi muon hoi ve van de ho tro mua xe tra gop nhu the nao
+- anh co xe moi ban tra gop khong vay EOL em la tuan o [bac_giang](city) em muon mua xe
+- toi nho ban tu van dum ve viec mua xe tra gop
+- e can mua [innova](mod) tra gop
+- xe [fiat](mak) doi [2002](yr) co duoc ho tro tra gop
+- chu sinh [1955](yr) can mua xe [169_tr](price) , tra gop 50 % gia tri xe vay 2 nam . chu vay duoc khong ? xin cam on .
+- xin hoi co ho tro mua tra gop ko vay
+- cho minh hoi salon co ho tro tra gop voi nhung dong xe cu tu [[2007_den_2010](yr)](yr) ko EOL minh quan tam mau xe : [daewoo](mak) [gentra](mod) [[2007_den_2010](yr)](yr)
+- toi muon mua mot chiec xe voi hinh thuc ho tro tai chinh vay ben ban co giup duoc khong , toi chi can ho tro khoan chung [150_trieu](price) do ve thoi .
+- minh muon mua xe tra gop EOL [ertiga](mod) EOL thu tuc giay to lan banh luon
+- ban cho hoi EOL minh muon vay mua xe tra gop EOL thu tuc the nao nhi
+- toi nghe noi xe tren 10 nam thi ngan hang khong con ho tro vay nhu vay co dung khong ?
+- minh mun mua xe cu nhung k biet co ho tro tra gop k vay ban
+- mua xe cu co tra gop khong vay ?
+- minh muon mua [daewoo](mak) [lanos](mod) cu , co ho tro tra gop khong ban ? minh o cu chi , cam on
+- chao ban , minh de y xe [mazda](mak) [cx5](mod) [mau_trang](color) ben ban , ben ban co ho tro mua xe tra gop bao nhieu % gia tri cua xe vay ?
+- minh can ho tro ve mau xe [i10](mod) EOL minh o nha trang EOL cuonghuynh11290 @ gmail . com EOL ban gui cho minh bao gia ban [mt](gear) va ban [at](gear) ngen EOL tra gop va tra thang luon nhe EOL : )
+- chao van anh , hien tai minh thay trang banxehoi co ho tro tra gop , nhung da so kh minh lien lac mua xe ho deu khong ho tro tra gop , vay tra gop ben banxehoi cua minh nhu the nao vay van anh EOL linh co xem thong tin ban xe EOL co con [audi](mak) doi [2015](yr) EOL tinh trang moi EOL nhung hop so thi khong xac dinh EOL van anh cho minh thong tin nhe
+- minh muon hoi mua xe [kia](mak) tra gop
+- da chi em muon mua xe tra gop
+- xin chao . minh muon hoi chut . minh thay ma tin 982415 co rao ban xe [kia](mak) [cerato](mod) [2009](yr) voi gia [46_tr](price) . minh co dang ky thu tuc vay mua xe tra gop . cho minh hoi xe do con ko va minh can lam nhung thu tuc gi nua .
+- ban EOL minh dang muon mua xe : ban [ford](mak) [ecosport](mod) doi [2017](yr) , gia [544_tr](price) , ho tro tra gop lai suat thap len den 80 % EOL ban cho biet : tong ho tro tra gop la bao nhieu % ? EOL lai xuat nhu the nao nhe
+- ban [chevrolet](mak) [spark](mod) [van](sty) [1.0](cc) [at](gear) doi [2011](yr) , [mau_trang](color) , xe nhap , gia ban [225_tr](price) . toi muon mua chiec xe nay theo phuong thuc tra gop . ban co the tu [van](sty) cho toi phuong thuc va dieu kien nhu the nao nhe . tks ,
+- cho minh hoi ben minh ho tro mua xe cu tra gop k ban
+- anh oi EOL em muon mua 1 con tra gop chay uber EOL anh xem tu van em voi EOL ben ngan hang ho tro tra truoc bao nhieu a
+- cach ho tro tai chinh cua ben em cho nguoi mua xe bang cach nao ?
+- cho toi hoi ve dich vu mua xe tra gop qua ngan hang
+- cho e hoi ti EOL e o [[quang_nam](city)](city) neu e muon mua xe [grand_i10](mod) [sedan](sty) ma mua voi hinh thuc tra truoc 20 % con lai vay ngan hang o [[quang_nam](city)](city) duoc khong a
+- cho a hoi xe rao tren web cua minh co ban tra gop luon ha em
+- rat vui dc e tu van mua xe EOL dinh mua xe [[kia](mak)](mak) EOL anh mua [[kia](mak)](mak) EOL tra gop EOL anh co [140_trieu](price)
+- xe [lexus](mak) [ls](mod) [ls](mod)460l doi [2010](yr) phuong phap tra EOL gop sao ban
+- thu tuc mua tra gop
+- mua xe nay co ho tro mua tra gop khong ? vay duoc bao nhieu phan tram , lai suat nam bao nhieu ?
+- chao ban , minh muon tu van tra gop xe [mazda_3](mod) [2017](yr) EOL ban tu van giup minh
+- em goi lai so 0909 383 381 EOL chi hoi chut ve thu tuc vay mua xe em ah
+- cho minh hoi tham 1 ti EOL minh mua xe cu o day [van](sty) duoc ho tro vay ngan hang phai khong ban
+- minh muon mua xe [nt200](mod) EOL xe nhap my gia bao nhieu ban EOL mua tra gop du truoc bao nhieu tien
+- minh muon mua xe [326_trieu](price) gio minh co [250_trieu](price) roi vay them de du so tien tren moi thang minh phai tra ben ban la bao nhieu ?
+- em muon vay tien mua xe tra gop thi can nhung dieu kien gi j
+- cho minh hoi EOL cho hoi EOL minh muon mua xe [toyota](mak) cu EOL [zace](mod) EOL thi co the vay duoc bao nhieu
+- alo cho minh hoi xe [mazda_3](mod) neu muon tra gop thi ntn ah \
+- toi can mua xe nhung chua du tien vay thu tuc vay von ntn
+- minh muon mua x[e](ver) [vios](mod) [1.5](cc) [e](ver) [mt](gear) minh tra truoc [200_tr](price) minh muon tra gop trong 3 nam vay moi thang minh gop bn vay a
+- chao ban , minh muon mua xe [starex](mod) [2004](yr) . khong biet co cach nao ho tro vay tra gop khong , vi doi xe cung kha sau roi .
+- ben minh gtr tra gop ko a
+- xe nay ho tro tra gop toi da bn % vay ban ? EOL gia xe chuan gia la bn ?
+- [kia](mak) [k165s](mod) [thaco](mak) [samsung](mak) thung kin inox 430 gia [292_tr](price) vay ngan hang tron goi , thoi han vay lau nhat la may nam
+- lai suat cho vay tra gop la bao nhieu vay chi
+- anh , chi co the tu van giup cho em biet ve goi vay de mua oto duoc ko a
+- toi muon mua xe . . . . EOL tra truoc toi thieu bao nhieu ? ? ? ? EOL ngan hang tra gop the nao ? ? ? ? EOL xin tu van
+- xe [fortuner](mod) mai dau [2012](yr) gia ban bao nhieu EOL ho tro vay bao nhieu EOL ng o tinh mua duoc khong
+- cho chi hoi chi muon mua 1 chiec [van](sty) [2013](yr) tra gop thu tuc the nao ha em
+- [honda](mak) [city](mod) mua tra gop thi can tra truoc bao nhieu ban ?
+- toi muon mua tra gop xe o to [kia](mak) [k165](mod)
+- minh o bac [van](sty) co duoc mua xe tra gop khong ban
+- co ngan hang nao ho tro vay mua xe cu ko ban ? EOL : ) EOL ( dance )
+- cho minh hoi mua xe cu co dc tra gop khong
+- toi co nhu cau mua xe cu doi [2000_concat_2005](yr) ben minh co ban tra gop ko vay
+- minh muon mua 1 xe [hyundai](mak) [getz](mod) khoang duoi [350_tr](price) tra gop 50 den 60 %
+- tu van [vios](mod) tra gop nhu the nao ?
+- mua xe cu co duoc vay ngan hang khong ?
+- bxhlink EOL minh co tham khao trang web ben ban EOL va thay ben ban co ho tro mua xe tra gop EOL minh muon tim hieu cho ro nhu the nao ban a . minh co gui cho ban cai link do
+- chiec xe nay co ban tra gop ko . xin cam on EOL co gi lh sdt 0984 981885 !
+- e muon mua xe [81_tr](price) thi dc vay ngan hang bao nhieu : )
+- minh muon hoi mot chut EOL minh co [200.000.000](price) minh muon mua xe khoang [450_tr_den_500_tr](price) khi den can thu tuc gi ban EOL minh muon vay tra trong khoang 4 nam
+- toi muon hoi thu tuc va dieu kien mua tra gop ben b la ntnao
+- ben minh co ban tra gop luon ko ?
+- minh muon mua xe tra gop , co the tu van ho minh ty duoc k ?
+- hien minh co [300_tr](price) minh muon mua con [ford](mak) [ranger](mod) [xls](ver) [4x2](tran) doi [2016](yr) EOL ben minh co ho tro tra gop ko nhi ? EOL ban tu van giup minh
+- xe cu cung cho tra gop nua ha ad ?
+- toi muon mua xe [aveo](mod) tra gop muon duc ban tu van EOL toi muon mua thi t EOL phai tra truoc bao nhieu tien vay ban
+- e muon mua xe tra gop thi nhu the nao
+- cho em hoi : neu mua [toyota](mak) [vios](mod) [2018](yr) ( [so_tu_dong](gear) ) , em thanh toan truoc [200_tr](price) thi so con lai trong vong 8 nam , moi thang se tra bao nhieu ah ?
+- xin chao qtv EOL ban co the cho minh them thong tin ve ho tro vay mua xe tra gop dc k ?
+- e dang co nhu cau mua 1 em [elantra](mod) [1.6](cc) [at](gear) [2017](yr) EOL a cho e xin bao gia ben minh va thu tuc mua tra gop + muc lai su[at](gear) cu the a nhe
+- minh muon mua xi khoang [400_trieu](price) gio moi co 300 muon vay 100 trong vong 36 thang lai xuat ra sao ban ?
+- minh muon mua 01 chiec xe cu tra gop EOL xe khoang [250_trieu](price) EOL minh can du dieu kien the nao de duoc tra gop
+- cho ban , ngan hang co ho tro tra gop khi mua xe cu khong ban ? va toi da vay dc bao nhieu ? trong bao nhieu nam ?
+- xe co [mau_do](color) ? EOL ho tro tra gop bao nhieu nam ?
+- toi dang quan tam toi [fiesta](mod) tit [2015](yr) , toi co 2 van de muon biet : gia 545 da gom cac loai thue chua ? lai suat cho vay se dc tinh toan nhu the nao trong qua trinh toi tra no dan ?
+- ban cho minh hoi muon mua xe oto tra gop can nhung thu tuc gi a EOL cho minh hoi tai sao co nhieu co so de xe [suzuki](mak) grand [2.0](cc) [at](gear) [2015](yr) la [7_cho](seat) co dung vay ko ban gia ca chiet khau bay gio la bao nhieu va xem xe o dau
+- e muon mua xe [camry](mod) [2.0](cc) EOL e dang phan van giua mua tra gop va mua tra thang
+- anh muon vay von mua xe EOL ben em co ho tro ko
+- chao anh chi ben tu van . em muon hoi anh chi viec . EOL em h dang can tim mua mot chiec xe gia duoi [200_trieu](price) dong [vios](mod) de day lai . EOL nhung h em chua co du tien , anh chi co cach gi , chi giup em . em xin cam on !
+- co xe nao duoi [100_tr](price) k ? EOL ben minh co ban xe tra gop k ?
+- xin tu van gium minh muon mua tra gop xe [kia](mak) [rio](mod) doi [2016](yr) , thi dua truoc bao nhieu va gop moi thang bao nhieu vay so dien thoai cua minh 0907834080 hoac 0977834080 gup minh voi minh ten huy . xin cam on ban
+- tan dinh mua xe tra gop , ban co the tu van dum .
+- [vios](mod) ho tro vay toi 90 % ha anh EOL gia lan banh bao nhieu vay
+- xem quang cao chiec [hyundai](mak) [verna](mod) EOL gia [295_trieu](price) EOL xin hoi chiec xe nay co ban tra gop khong ban
+- ben cua hang co the cho toi tham khao ban gia chinh xac . gom tat ca cac phi . . va co the tra gop khong .
+- xe [hyundai](mak) [accent](mod) [2018](yr) [mt](gear) [ban_du](add) tra gop thi can tra truoc bao nhieu a
+- minh muon mua tra gop . vay cty co chuong trinh khong va hinh thuc cung nhu thu tuc ra sao EOL minh muon mua [honda](mak) [city](mod) [sedan](sty)
+- cho em hoi e muon vay tien mua xe cu duoc khong a ?
+- xe [toyota](mak) [vios](mod) doi 09 gia ban 345 co ban gop khong ban
+- chao anh em o [tra_vinh](city) muon mua xe , tra gop
+- toi can mua 1 chiec xe tra gop de lai uber
+- cho minh hoi minh muon mua xe cu tra gop thi phai lam nhu the nao vay
+- ben em co ban o to cu tra gop ko e ?
+- minh dang muon mua xe tra gop
+- minh muon mua xe [kia](mak) [rio](mod) [sedan](sty) [at](gear) tra gop , cho minh hoi phai dua truoc bao nhieu . va dang co ctkm nhu the nao ?
+- thu tuc mua x[e](ver) tra gop x[e](ver) [innova](mod) [e](ver) nhu th[e](ver) nao
+- muon mua xe [chevrolet](mak) [captiva](mod) [lt](ver) [2.4](cc) l [2008](yr) gia [375_trieu](price) tra truoc 50 % con lai tra gop vay ngan hang ho tro nhu the nao
+- muon mua [celerio](mod) tu dong EOL vui long bao gia ( o [tp_hcm](city) ) EOL co vay ngan hang 70 % co duoc khong ?
+- anh muon mua [vios](mod) [g](ver) thu tuc tra [g](ver)op the nao ? tra truoc bao nhieu thi nhan xe duoc ?
+- a oi xe nha minh co ho tro tra gop khong
+- chi cho e hoi [xe_tai](sty) nho [dongben](mak) 800 kg thung bat tra gop thu tuc nhu the nao z chi
+- toi muon mua xe nhung ngan hang co the ho tro ko ah
+- toi muon tham khao ve gia xe tra gop EOL vui long lien he tu van toi som nhat ! EOL thanks
+- minh can tu van EOL hien minh dang can mua xe cu gia khoang [250_tr](price) EOL nhung minh chi co tam [150_tr](price) EOL minh muon vay khoang [100_tr](price) EOL thi lai suat se the nao EOL minh muon me xe [vios](mod) doi [2005](yr)
+- minh muon vay ho tro tra gop mua xe EOL thi nhu nao ak
+- cho hoi minh muon mua xe tra gop nhung minh khong di lam cong ty thi ko chung minh duoc nguon goc thu nhap . . minh chi lam tu do . . lam ntn de co the vay von ngan hang ok duoc . . ? ? ?
+- e muon mua xe [k165](mod) tra gop thu tuc tn vay
+- ban oi cho minh co ban xe cu tra gop ko
+- toi muon mua xe nhung chua du tien thi toi phai lam sao EOL sdt 0945880790
+- cho minh hoi chut EOL ben ban co ho tro thu tuc mua xe tra gop ko
+- chao anh , [e](ver)m muon tham khao gia cua [[vios](mod)](mod) [e](ver) [so_san](gear) b[e](ver)n anh gia ban va khuy[e](ver)n mai nhu th[e](ver) nao a EOL [e](ver)m du ki[e](ver)n mua 1 x[e](ver) [[vios](mod)](mod) tra gop voi so ti[e](ver)n co hi[e](ver)n tai la [300_tr](price) EOL anh co th[e](ver) tu van va cho [e](ver)m bi[e](ver)t th[e](ver)m thong tin chi ti[e](ver)t v[e](ver) loai x[e](ver) nay va chuong trinh khuy[e](ver)n mai th[e](ver) nao duoc khong a
+- da qua xd mua goi tra gop dc ko ad EOL e co xem [nitro](mod) ban xe hoi va thay co 1 em xe [bmw](mak) [sx](ver) nam [2003](yr) chiec xe [330i](mod) EOL nguyen phi hung thu duc [hcm](city)
+- cho e hoi ben minh mua xe cu co ho tro vay von ngan hang k anh
+- toi can mua xe 2.4 tan thung bac , tra gop EOL xin cho biet . . so tien tra truoc . . lai xuat . . lai vay va tong so tien xe khi lan banh
+- ban cho minh hoi chut dc o EOL minh muon mua tra gop xe [kia](mak) [morning](mod) [2016](yr) thi lai xuat ntn ban nhi
+- ho khau o [quang_nam](city) co mua tra gop dc k
+- chao ban ban co the noi ro hon ve cac dieu kien muc tra gop ko EOL [kia](mak) [cerato](mod) [2018](yr) EOL ban co thong tin gi ve xe neu tren goi vo mail cho minh tham khao nhe EOL mail : thachchanldaravi @ gmail . com
+- gia nay la khuyen mai chua vay EOL co cho tra gop khong
+- xe [hyundai](mak) [grand_i10](mod) doi [2017](yr) , [mau_do](color) , [340_tr](price) . cho vay toi da duoc ? tra trong vong may nam va tien lai va goc phai tra hang thang cua may nam do la vay ?
+- ban xe cu co dich vu tra gop khong ?
+- toi muon hoi ho tro tra gop thi the chap gi
+- e cho anh hoi ve thong tin tai chinh chut dc ko EOL a muon mua xe cu ma muon tra gop qua ngan hang EOL khong biet xe sx tu nam nao thi moi dc ngan hang ho tro vay von nhi
+- minh can tu van EOL minh muon mua mot xe [daewoo](mak) [lacetti](mod) [cdx](ver) doi [2010](yr) EOL gia [370_tr](price) EOL minh muon tra truoc 50 % , va so con lai gop trong 6 nam EOL thi lai xuat bao nhieu
+- anh muon hoi thong tin ve mua tra gop xe [kia](mak) [van](sty) [2012](yr)
+- can mua gop xe nay , nho tu van dum nhe
+- co xe [hyundai](mak) [29_cho](seat) doi [2007](yr) khoang [350_trieu](price) tra gop khong ban oi EOL neu co bao minh nhe
+- minh muon hoi la dieu kien ntn de mua xe cu tra gop a b ?
+- minh muon tra truoc [100_tr](price) mua xe [vios](mod) [2018](yr)
+- minh dang tim hieu mua tra gop xe o to EOL rat mong ban tu van
+- mua tra gop lai xuat bao nhieu % / nam
+- nhu toi can mua 1 chiec [mercedes](mak) [sprinter](mod) [2007](yr) cu co tra gop duoc khong chi EOL ( giggle )
+- chi oi em muon mua 1 con [morning](mod) cu tra gop ve chay uber EOL ben minh co hang y k
+- xin hoi mua [suzuki](mak) [ertiga](mod) gia hien tai co ban giao 589 t . goi ngay giam [30_tr](price) . toi mua tra gop co 100 t co du k . xin cam on
+- minh muon mua xe hoi [5_cho](seat) EOL thay tren banxehoi . com co dang nhung xe da qua su dung ma cung tra gop ha ad ? EOL chi nhung xe moi moi tra gop chu dung k
+- em o [q2](mod) [tphcm](city) EOL em thay co dang ban nhung chiec [matiz](mod) EOL nhu doi [2009](yr) gia ban dang la da bao gom tat ca roi ha chi EOL voi lai cho em hoi la minh mua nhung chiec xe nay thi co ho tro vay ngan hang ko chi
+- minh muon mua mot xe [toyota](mak) [vios](mod) da qua su dung voi gia khoang [250_trieu](price) tro lai , du dinh vay ngan hang [150_trieu](price) va tra trong 4 nam nhu vay cho hoi thu tuc va lai suat vay nhu the nao
+- toi muon vay [25_tr](price) thi 1 thang tra gop bao nhieu
+- ggggggggg EOL 555555 EOL minh dang muon mua xe tra gop
+- ben minh co ban xe cu tra gop ko
+- minh muon vay mua o to o [binh_thuan](city) EOL co duoc ko a
+- minh mua [kia](mak) [morning](mod) tra gop thoi han tra gop toi da bao nhieu nam vay
+- toi hoi gia [ford](mak) ban [xl](ver) [570_trieu](price) ngoai ra con nhung khuyen mai nao , xe co may mau mua tra gop lai suat bao nhieu , co xe luon chua
+
+## intent:tim_thong_tin_xe
+- minh muon mua [xe_tai](sty) 1.25 tan EOL gia nhu the nao ha ban
+- minh dang can tim chiec [land_cruiser](mod) doi [2001_conc[at](gear)_2004](yr) , [so_tu_dong](gear) hoac [at](gear) , gia khoang [400_trieu](price) EOL co ko vay ban
+- toi dang can xe [hd_72](ver) EOL nhap khau ben a / c co hang bao gia hop tac
+- minh dang quan tam den [santafe](mod) [may_dau](fuel) cu , [so_tu_dong](gear) EOL cam on yen ngoc nhe !
+- minh co quan tam den [navara](mod) ban [el](ver) . ngay mai goi tu van minh cai nhe
+- co oto cu [16_cho](seat) ko
+- xin cho thong tin ve xe for [ecosport](mod) cu doi tu [2014_concat_2015](yr) tai [ha_noi](city) . toi quan tam den dong xe nay .
+- minh quan tam den [ertiga](mod) [2017](yr) EOL thang 7 co chuong trinh khuyen mai gi khong ban ?
+- minh muon hoi ve con [lacetti](mod) nhap khau doi [2010](yr)
+- u . minh muon mua [xe_tai](sty) cu tren duoi 1 t , gia khoang [100_tr](price) do ve . ban co the tu van giup minh ko
+- toi can mua xe ca map cu EOL doi [2000](yr)
+- toi muon mua chiec xe [kia](mak) [morning](mod)
+- ben minh co chiec [vios](mod) [2009](yr) . [2010](yr) k a
+- toi muon mua xe ma so 889604
+- cho em hoi voi xe [vios](mod) [g](ver) ton[g](ver) con[g](ver) [649_tr](price) tron[g](ver) do da [g](ver)iam tru [75_tr](price) chua a
+- con xe [vito](mod) [mau_den](color) doi [2009](yr) , xe qua may chu roi ban
+- minh muon tim hieu for [ranger](mod) [2015](yr)
+- xe [ford](mak) [ecosport](mod) [2018](yr) khi nao ra mat tai thi truong vn
+- toi muon mua xe cu : [tucson](mod) , [sorento](mod) [santafe](mod) tam doi [2011_den_2012](yr)
+- minh muon tim 1 xe [spark](mod) doi [2009_tro_di](yr) , [mau_do](color) , [ha_noi](city) EOL co thi cho xin it thong tin , hinh anh + gia nhe
+- ban co xe [mondeo](mod) con ngon khong , gia re
+- muon hoi chiec xe [mitsubishi](mak) [jolie](mod) doi [2005](yr) da ban chua
+- chao chi ! toi quan tam den dong xe [colorado](mod) chi vui long bao gia va khuyen mai hien tai qua so dt cam tay cho toi . cam on chi EOL 0971636376
+- anh muon biet thong tin [toyota](mak) [rush](mod) [1.2](cc) EOL xe moi EOL o ben long bien co cua hang nao khong em
+- minh muon mua 1 con [camry](mod) [2012](yr) lap rap trong nuoc , gio gia khoang bao nhieu
+- minh muon mua xe [chevrolet](mak) ma tin 1315498
+- a muon mua xe [fortuner](mod) [2.7](cc) [mau_den](color) [may_dau](fuel) gia khoang bao nhieu em neu la doi [2009](yr)
+- minh o [da_nang](city) EOL minh muon mua xe [toyota](mak) [sienna](mod) [3.5](cc) [limited](ver) doi [2016](yr) , [mau_trang](color)
+- cho minh hoi chiec xe o to [bmw](mak) [x5](mod) [3.0](cc) [si](ver) doi [2007](yr) . tren ma tin 948755 co con khong , neu con lien he nhu the nao de xem xe va mua
+- minh muon mua xe [suzuki](mak) 500 kg
+- minh can tim xe oto cu gia tu [100_concat_250](price) xe gia dinh [5_cho](seat)
+- minh muon mua [xe_tai](sty) [ha_noi](city) gia tam [400_den_500](price)
+- co xe [vios](mod) [2012](yr) [mau_den](color) dang ky lan 1 bao a sdt 0912235738 a cam on
+- vui long gui thong bao gia moi nhat dong xe [attrage](mod) [cvt](gear) [eco](ver) [2017](yr) a ! ( bao gom khuyen mai day du ) . cam on
+- chao ban , minh muon hoi ben ban co xe nao ~ 300 concat 400 dong [avante](mod) doi & gt ; [2010](yr) ko ? EOL minh chi chon [mau_den](color) hoac trang
+- minh dang tim chiec xe [chevrolet](mak) [spark](mod) cu
+- a hoi ti EOL ve xe [cx5](mod)
+- chi oi cho em hoi ben chi co xe loai [09_cho](seat) doi cu khong chi
+- cho minh hoi gia dam phap [city](mod) [2017](yr) [1.5](cc) [top](ver) bao nhieu nhi
+- xe [nubira](mod) [1.6](cc) de em [70_tr](price) dc ko a
+- cho minh xin hoi . minh muon mua lai xe cu . doi [2007](yr) [innova](mod) , co xe nao la xe chinh chu su dung can ban lai . gia khoang [350_trieu_den_380_trieu](price) ko ?
+- ban cho minh hoi gia xe [hyundai](mak) 3.5 tan doi [2006](yr) cu gia bao nhieu tien
+- e cho hoi ban thap nhat cua [city](mod) la bn tien
+- minh muon mua xe [ban_tai](sty) [dongben](mak) [x30](mod) EOL vui long bao gia EOL 0983515183 minh
+- xin cho hoi [nissan](mak) [sunny](mod) [xv](ver) , gia lan banh tai [thanh_hoa](city) bao nhieu . cho minh co [mau_vang_cat](color) ko vay ?
+- toi dang can tu van mua xe [kia](mak) [morning](mod)
+- cho minh hoi co xe nao duoi [4_tr](price) khong
+- chao ban toi muon mua xe [audi](mak) [a1](mod) da qua su dung cho vo di , ban co xe nao chat luong tot khong ?
+- minh dang muon mua xe [i10](mod) khoang [200_tr](price) . tu van . thank
+- tu van cho minh dang muon mua xe [vios](mod) [2012](yr)
+- xe o to [bmw](mak) [3_series](mod) [320i](ver) con hay ban roi anh
+- minh muon mua xe [mazda_3](mod) gia khoang tren [300_trieu](price) mot ti
+- a can xe [ban_tai](sty) cu
+- thay anh co tin dang ban [kia](mak) [carens](mod) [2016](yr) [so_san](gear) , [mau_den](color) EOL minh muon hoi la ban co giam gia nua khg ? EOL dang quan tam
+- minh muon mua 1 chiec xe cu
+- ban dang ban xe [i_20](mod) phai ko a
+- em muon mua xe [[elantra](mod)](mod) ko biet ben minh co san mau gi EOL [[elantra](mod)](mod) [2017](yr)
+- oto [spectra](mod) [ls]([v](ver)er) [2005](yr) gia bao nhieu la chay ok [v](ver)ay [v](ver) a
+- minh dang tim mua xe oto EOL [suzuki](mak) [swift](mod) nhap khau EOL nho ban tim gioi thieu cho
+- chi cho em hoi EOL xe [vios](mod) doi [2007](yr) EOL gia xe moi bao nhieu tien a
+- cho ban con dong xe [veloster](mod) doi tu [2010_concat_2014](yr) ko vay ?
+- [kia](mak) [van](sty) [2012](yr) gia bn a
+- minh muon mua mot chiec xe [innova](mod) doi [2014](yr)
+- toi muon mua chiec [kia](mak) [morning](mod) [2014](yr) nhap khau moi toi o [ninh_binh](city) . EOL chiec xe co ma so tin la : 298312
+- anh muon hoi con xe [nissan](mak) [sunny](mod) [2013](yr) gia ban cu the
+- can mua xe [jolie](mod) [mau_trang](color)
+- [g](ver)ia lan banh tai [don[g](ver)_nai](city) [toyota](mak) [vios](mod) [1.5](cc) [g](ver)
+- minh muon tim xe o to cu mua ban giup minh nhe
+- e moi tim hieu va dang tim 1 con [chevrolet](mak) duoi [2010](yr) EOL c tu van giup e voi
+- xin hoi xe [lexus](mak) [es350](mod) a con ko a
+- toi co the vay tien mua [xe_tai](sty) cu duoc khong ? va so tien vay duoc la bao nhieu ? neu cai xe doi [2011](yr) va tri gia la [200_trieu](price)
+- anh chi oi bay gio [kia](mak) [rondo](mod) nay ca thue tat ca chon goi het gia bao nhieu nhi \
+- minh can tim [honda](mak) [civic](mod) da qua su dung EOL doi [2015](yr) hoac [2016](yr) EOL [at](gear)
+- cho hoi xe [toyota](mak) [corolla_altis](mod) [at](gear) doi [2014](yr) dang ban voi gia [125_tr](price) tinh trang xe ntn vay ad EOL bxhlink EOL minh cung dang muon tim 1 chiec khoang tam gia 100_conc[at](gear)_150_tr EOL de phuc vu nhu cau ca nhan
+- toi muon tim hieu ve xe [camry](mod) [le](ver) khac voi [2.5](cc) [q](ver) the nao
+- a co xe [fortuner](mod) [2013](yr) ko a
+- xe [ecosport](mod) [2016](yr) con khong ban ?
+- toi can mua [xe_tai](sty) huynh dai 3.5 tan chay xi mang EOL ban tu van toi can gap lh : 0987885592 , toi dang can gap
+- toi muon mua xe oto [camry](mod) [2.4](cc) nam [2011](yr) , [2012](yr)
+- toi muon mua xe nay tra gop EOL can thu tuc nhung gi EOL lien he voi toi qua dt hoac zalo 01679956786
+- minh hoi ban oi EOL con [por[s](ver)che](mak) [cayenne](mod) [s](ver) [4.8](cc) l [2008](yr) EOL muc tieu thu nhien lieu bao nhieu ha ban EOL bao nhieu l / 100 km EOL chinh xac ban nhe
+- toi muon mua 1 xe [kia](mak) [cd5](mod) EOL toi dang khu vuc [ha_noi](city) cac ban co the ho tro tim giup toi . gia duoi [100_trieu](price)
+- minh muon tim xe [kia](mak) [morning](mod) [van](sty) EOL co the tu [van](sty) cho minh dc ko
+- cho hoi ben minh co [ford](mak) [tracker](mod) [3.2](cc) model [2015](yr) EOL co hang nay nua khong ban
+- toi muon mua chiec xe [fairy](mod) [2.3](cc) l doi [2008](yr) gia ban [70_trieu](price) co con xe khong
+- toi muon hoi mua xe EOL [nissan](mak) [sunny](mod) ban [xl](ver)
+- cho minh hoi [fortuner](mod) [v](ver) ban [2013](yr) xang [so_tu_dong](gear) co ban [2.0](cc) phai ko ban
+- xin cho hoi , ben minh co nhap xe [ford](mak) [escape](mod) [2016](yr) phien ban [titanium](ver) khong ? / neu co thi gia khoang bao nhieu ? .
+- e muon mua xe [kia](mak) [morning](mod) doi [2010](yr) hoac [2011](yr) [so_san](gear) EOL gia khoang bao nhieu
+- toi muon mua xe ban ngay cho doanh nhan di hop , ban dem chay taxi EOL vay nen mua loai nao la thich hop EOL mong dc tu van
+- co xe [crv](mod) [2.0](cc) [mau_den](color) gia tot ko b
+- minh muon tu van de mua xe [kia](mak)
+- [kia](mak) [morning](mod) [ex](ver) [mt](gear) [1.25](cc) ban [so_san](gear) tra gop + chi phi lan banh ntn ha ban
+- minh can tim con [daewoo](mak) [magnus](mod) nhap
+- ban xe chua chi
+- cho anh hoi gia kia nhap
+- chao em , anh hoi chut ve mua xe [vitara](mod) doi [2005](yr)
+- cho anh hoi xe [ban_tai](sty) ma so 469082 da ban chua e
+- tu van giup toi can mua o to hieu [toyota](mak) da qua su dung doi [2015](yr)
+- bxhlink EOL gia lan banh , [so_tu_dong](gear) bao nhieu vay ban . . dt 0376498555
+- cho minh hoi chut EOL ben ban co [vios](mod) cu ko
+- [[ferrari](mak)](mak) la [[ferrari](mak)](mak) doi [2015](yr) dua ve [ha_tinh](city) mat bao nhieu tien ca oto va tien ship
+- cho em hoi xe [kia](mak) an nay con ko a
+- toi can biet thong tin ve [toyota](mak) [rush](mod) EOL da co gia chinh thuc hay chua ? bao nhieu vay ?
+- a muon hoi mua xe , ma tin 784319 EOL xe nay da ban chua e ?
+- cho minh hoi xe [honda](mak) [city](mod) [top](ver) gia thap nhat la bao nhieu EOL doi [2017](yr) ma da tru tat ca cac khuyen mai gia chuan con bao nhieu tu van giup minh
+- ban co ban con xe [innova](mod) doi [201](yr) don[g](ver) [j](ver) hay [g](ver)
+- chao banxehoi . com , minh can 1 chiec xe gia dinh nho gon , thuan tien di lai trong thanh pho , gia ca khoang [100_trieu](price) , mong tu van giup em
+- chao em , anh muon hoi xe all new [mitsubishi](mak) [pajero_sport](mod) [4x4](tran) [at](gear) ban moi nh[at](gear) co xe khong ?
+- salon co the cho minh xem may mau xe [kia](mak) [van](sty) duoc khong a ?
+- cho minh hoi bai dang ma tin 276431 xe da ban chua ban
+- e can mua 1 chiec [spark](mod) [van](sty) EOL doi [2009_concat_2014](yr) EOL ai ban vui long alo 0913661262 EOL tks a EOL e ten tho
+- ca nha cho minh hoi con xe [lifan](mak) [520](mod) cua a hoang [van](sty) ba da ban chua a
+- minh muon mua xe tam [300_trieu](price) EOL co xe nao khong
+- toi muon tim hieu ve [grand_i10](mod) [1.0](cc) bass , ban hay tu van giup toi . nha que muon mua chay taxi .
+- anh cho hoi xe [baic](mak) [s3](mod) gl [2.4](cc) doi [2015](yr) . nhap khau nuoc nao ? EOL xin loi minh xem anh thay roi .
+- vo chong e can mua xe [vios](mod) doi [2009](yr) hoac [2010](yr) EOL hoac [lacetti](mod) cung dc
+- [sonata](mod) [sport](ver) [2.0](cc) nhap my gia bao nhieu a ?
+- xin chao cho minh hoi , xe [hyundai](mak) [starex](mod) doi [2010](yr) gia [560_tr](price) , ma tin 222121 van dang ban a
+- xe [i10](mod) lap rap ben minh co xe chua a
+- toi muon mua 1 xe [kia](mak) [k165](mod)
+- ben minh ho tro mua xe a chi
+- yen cho hoi [innova](mod) lan banh o [binh_duong](city) bao nhieu roi
+- toi dang co nhu cau mua xe [ford](mak) [ecosport](mod) ban [2015](yr) ?
+- admin cho hoi xe [fortuner](mod) [may_dau](fuel) da co dai ly nao nhap ve ban chua a ?
+- minh muon hoi EOL minh o [nghe_an](city) EOL muon mua xe cu o [hn](city) EOL thi cai phi de sang ten EOL voi thu tuc sang ten nhu the nao a EOL nho dam tu van giup minh
+- minh dang co nhu cau mua 1 xe hieu [toyota](mak) cho gia dinh su dung ( co the 4 hoac [[7_cho](seat)](seat) ( ) , [4_cho](seat) uu tien [camry](mod) , [[7_cho](seat)](seat) co the [fortuner](mod) / [innova](mod) ( [mau_bac](color) ) EOL nho tong dai tu van ho nen mua xe moi hay cu ( tam [400_concat_600_tr](price) )
+- minh can tham khao xe [eco_sport](mod) cu EOL hoac con nao tuong tu EOL 0973287496
+- cho hoi [xe_tai](sty) [changan](mak) 850 kg con ko ?
+- minh muon xem xe nay gia the nao
+- cho e hoi ve gia voi xe [[suzuki](mak)](mak) ap EOL xe [[suzuki](mak)](mak) [apv](mod) doi [2011](yr) . co gia bao nhieu thi hop ly chi nhi ?
+- [i8](mod) gia chuan ra sao ban
+- minh muon tim xe [ecosport](mod) [titanium](ver) [2015](yr) [mau_do](color) ruby , vay ban tim dum nhe , dt zalo 01229915495
+- a muon mua [innova](mod) [2013](yr)
+- minh muon mua xe tam [500_concat_600_tr](price) ban tu van giup minh
+- chiec [vios](mod) gia [95_tr](price) con ko ray ac
+- ban oi cho hoi con [towner](mod) 990 ngoai bac co ko vay EOL co j alo 0979010720
+- minh muon mua [xe_tai](sty) ma tin 995374 EOL con hang ko ban
+- khoang [150_tr](price) thi mua xe gi la tot ha ban
+- toi co nhu cau mua xe [suzuki](mak) [ertiga](mod) [2016](yr) xin duoc tu van gioi thieu cua hang uy tin nhat
+- dear ban ! minh muon mua xe [kia](mak) 125 . ben ban con hang khong ?
+- tu van oto [camry](mod) [2.4](cc) [2005](yr) va [civic](mod) [2009](yr)
+- minh muon hoi ve xe [kia](mak) [morning](mod) [van](sty) , ben ban co nhung doi nao va gia ca ntn a , cam on
+- cho hoi la xe minh da ban chua hay van con ?
+- minh muon mua [ban_tai](sty) tam 300 t EOL ko biet ben ban co loai nao
+- minh dang co nhu cau mua xe [kia](mak) [morning](mod) [so_tu_dong](gear) EOL xe cu EOL ben minh co ko ban
+- toi co khoang 150 t muon hoi ban co nen mua xe dong [toyota](mak) doi [96_concat_97](yr) khong ?
+- hien tai minh dang co nhu cau muon mua xe [ford](mak) [everest](mod) [2010](yr) ad co the cho minh 1 chut chia se duoc khong
+- [cer[at](gear)o](mod) [1.6](cc) [at](gear) gio bao nhieu em
+- con [matiz](mod) [se](ver) [2003](yr) cua a ban chua
+- cho minh hoi , xe [hyundai](mak) [i10](mod) [1.2](cc) [at](gear) doi [[2016](yr)](yr) gia bao nhieu ? EOL xe doi [[2016](yr)](yr) co khac gi voi xe doi [2015](yr) ko ?
+- can tu van ve xe [hon_da](mak) [city](mod)
+- toi muon mua xe muon vay tien them can phai lam thu tuc gi ah
+- hien tai cong ty minh dang muon nhap mot loai xe nhu sau EOL xe [[van](sty)](sty) cu , duoc do len de thanh xe ban cafe do an nhanh EOL xe [[van](sty)](sty) kich co dai 4.2 , rong 2.0 va cao 2.3 EOL minh muon nhap xe thong qua showroom ben ban EOL nhu vay lieu co kha thi khong ?
+- cty minh o dau ?
+- e cho a hoi xe [kia](mak) [morning](mod) [si](ver) phien ban [2018](yr)
+- minh muon hoi ve [honda](mak) [crv](mod) [2018](yr)
+- chi cho hoi chut ve xe [ecosport](mod) dc khong
+- chi[e](ver)c [camry](mod) [2.0](cc) [e](ver) EOL ma tin : 1985383 EOL con khong EOL x[e](ver)m x[e](ver) o dau
+- em muon mua chiec xe [ollin](mod) 360 EOL anh co the tu van giup em dc ko ?
+- ben ban co xe [gla_250](ver) [mau_trang](color) ko ?
+- e hoi mua xe [thaco](mak) weichai doi sau [2013](yr) a
+- shop cho gia tot nhat xe sf va [tucson](mod) ?
+- gia xe [toyota](mak) [2015](yr) gia bao nhieu
+- minh dang co nhu cau mua mua xe [7_cho](seat) doi 2012 tro len ban tu van giup minh nhe . minh chi co tam tien 500 t
+- xin chao ! xem thong tin ma xe 865296 hien nay con hay da ban roi , neu chua ban vui long thong bao de toi biet nhe . rat cam on
+- e muon mua xe [mitsubishi](mak) [pajero_sport](mod) EOL co the tu van gium e ?
+- minh muon mua cai xe [camry](mod) cu gia tu 500 concat 600 tr EOL tu van minh nhe
+- toi o bim son [thanh_hoa](city) ( [g](ver)iap tam diep [ninh_binh](city) , co nhu cau tim mua xe [innova](mod) [2.0](cc) [g](ver) doi tu [2012_den_2013](yr) mau_tran[g](ver) hoac [mau_bac](color) , xe phai dam bao khon[g](ver) n[g](ver)ap nuoc , khon[g](ver) dam dun[g](ver)
+- anh muon mua [elantra](mod) [2016](yr) [2.0](cc)
+- ban co the tu van cho minh con xe [crown](mod) cu khong ?
+- em la hoang van minh EOL muon anh chi tu van mua em [i10](mod) [so_san](gear) de chay taxi a EOL rat mong anh chi tu van giup em a em xin cam on a .
+- anh ban xe [i10](mod) ban [mt](gear) gia dinh lan banh bao nhieu anh EOL toi o [binh_dinh](city) EOL [mau_vang_cat](color)
+- b cho minh hoi gia con [thaco](mak) [towner](mod) [950a](ver) thung mui bat thanh than xuong duong gia bn
+- toi muon mua xe [innova](mod) nhung tai cho ban co dua vao tai da lay lhg ?
+- c muon hoi xe [wigo](mod) , c thay tren web ben em bao gia [310_tr](price) EOL gia nay la gia nhap hay gia ban day
+- minh muon tham khao xe [sorento](mod) [2014](yr)
+- minh muon mua oto qua web thi lam sao ban EOL minh muon xem qua [cadillac](mak) [escalade](mod)
+- toi dang can tim mua xe [hyundai](mak) [starex](mod) [9_cho](seat) khoang [300](price) tro ve neu co goi dien nhe
+- anh muon mua xe [pajero](mod) da qua su dung thi tim thong tin o dau ha em ?
+- toi can tim xe khoang tien [200_tr](price) nho tu van giup . toi o [phu_tho](city) .
+- bxhlink EOL xe nay con k
+- anh co con [cdx](ver) nhap [2010](yr) , [2011](yr) den , bien hn , hoac chua bien , gia ca lan banh xin tu van nhe , cam on
+- can mua xe doi [215](yr) hoac [216](yr) 1 tan ( handshake )
+- bxhlink EOL anh muon dat con [z8](mod) nay thi co san ko em
+- cho minh hoi : dong co [kia](mak) [k3](mod) doi [2014](yr) , [so_tu_dong](gear) co gia khoang bao nhieu ?
+- ban xe [chevrolet](mak) [cruze](mod) doi [2011](yr) - anh dang hoi xe nay con hang khong em
+- toi quan tam den xe [toyota](mak) [alphard](mod) . ben anh co xe khong ? gia ntn ?
+- em cho anh hoi gia xa [honda](mak) [accord](mod) doi [92](yr)
+- minh thay co cai [focus](mod) [2.0](cc) [at](gear) doi [2006](yr) [so_tu_dong](gear) ban voi gia [379_tr](price) con ko nhi
+- cho minh hoi gia xe [vios](mod) cu
+- minh can tu van ve mua xe [kia](mak) [morning](mod)
+- ben em co khuyen mai nhung gi EOL a muon hoi [cerato](mod) [mt](gear) EOL gia ban nhu da dang ? EOL phu kien theo xe ? ? ?
+- minh muon mua xe [grand_i10](mod) [1.2](cc) [at](gear) . nho ban tu van chi tiet EOL gia ban va khuyen mai chi tiet EOL chi oi chi de lai thong tin sdt giup e tu van cho chi nhe
+- cho anh hoi nho chut EOL con [yaris](mod) 19a 02550 ban chua em ? EOL dang ngay 20 / 7 EOL em khong nam duoc thong tin xe nay a ?
+- toi can tim xe [grandis](mod) doi [2008](yr) , gia tam [600_tr](price) tro lai . xe gia dinh
+- gia xe [vios](mod) k lan banh hien nay [leaf](mod) bao nhieu a !
+- cho em hoi dia chi showroom mk o dau a
+- xin chao , cho minh hoi , xe [hyundai](mak) [starex](mod) co ma tin la 222121 van dang ban a
+- ban tu van giup xe [ford](mak)
+- minh muon mua [xe_tai](sty) 550 kg EOL ban co the tu van cho minh EOL doi tu [2005_den_2008](yr) EOL minh ben da lat EOL co j ban tu van cho minh nhe
+- toi dang muon tu van ve xe [honda](mak)
+- minh muon mua xe [hyundai](mak) [santa_fe](mod) doi [2015](yr)
+- anh can mua 1 chiec xe e co ban khong vay
+- chiec xe [ecosport](mod) [mau_trang](color) gia 640 da ban chua vay ah ?
+- ban ban co ban [xe_tai](sty) cu k
+- bxhlink EOL xe nay con ko ban nhi EOL sao minh thay gia re hon nhung loai xe cung loai
+- toi can tim mua 1 chiec [everest](mod) doi [2009](yr) hay [2010](yr) [so_san](gear)
+- em muon hoi xe [kia](mak) [carrera](mod) con hang k ah EOL va gia hien tai la bao nheu ah
+- cho em hoi ben minh co chiec [isuzu](mak) cu nao k ah
+- a xem co chiec [16_cho](seat) cac tinh mien tay EOL e can mua chiec [mercedes](mak) EOL gia khoang [120_trieu](price)
+- khoang thang may [[2018](yr)](yr) phien ban [vios](mod) [[2018](yr)](yr) nhap thai co ban tai vn ? va vay max duoc bao nhieu
+- minh muon mua xe for [everest](mod) doi [2009](yr) hoac [2010](yr)
+- minh can mua mot xe oto con lao [5_cho](seat) ngoi
+- anh muon mua xe [hyundai](mak) [getz](mod) doi [2010](yr) can em tu van thank ! EOL chi co the bao gia giup em . EOL em muon dang 3 dong xe moi tai trang dau cua muc toan quoc . thi gia nhu the nao a
+- chi muon tu van ve xe [thaco](mak) [29_cho](seat)
+- em muon hoi mua xe dao EOL co chi nhanh [hcm](city) k a
+- minh muon xe [innova](mod) [2014](yr) , [2015](yr) ban tu dong khoang [560_tr](price) tro lai ben ban co vay ?
+- hi ms . han chi cho hoi la ben minh con chiec [swift](mod) nao khong nhi ?
+- cho minh hoi hien tai gia xe [mazda](mak) [bt_50](mod) [3.2](cc) hien tai gia con bao nhieu ? uu dai nhu the nao ?
+- [mazda](mak) [626](mod) anh ban chua ? EOL 200 t anh ban ko anh
+- ben minh co xe [16_cho](seat) k
+- minh muon mua xe moi [vios](mod) [so_san](gear) [2018](yr) co [mau_den](color) ko va gia thang nay bao nhieu tien
+- can tim 1 xe [ford](mak) [ranger](mod) doi [15](yr) hoac [16](yr) [mau_trang](color) chay luot , a o [lam_dong](city)
+- toi can thong tin muc nay EOL bxhlink
+- toi muon hoi xe [altis](mod) [2017](yr) ( [2.0](cc) ) gia sau khuyen mai la bn ?
+- anh cho em hoi . [is](mod) grand[is](mod) nhap khau khac lap rap trong nuoc nhu the nao a
+- toi dang can mua xe phu hop voi nu EOL 0916918011 goi cho toi
+- cho anh hoi chinh xac [vios](mod) ban [e](ver) [so_tu_dong](gear) [2018](yr) gia bao nhi[e](ver)u
+- minh muon tim mua mot chiec xe [camry](mod) [3.0](cc) doi [1992](yr) [mau_den](color) EOL ban co the tu van va tim giup minh khong
+- e ranh chua EOL anh hoi xe [dmax](mod) [2016](yr) EOL [at](gear) EOL bxhlink EOL thay ben e dang ban [510_tr](price)
+- toi muon mua xe oto EOL o to [byd](mak) [f0](mod) doi [2015](yr) . xe nay gia bao nhieu vay e
+- xe [hino](mak) 6 t doi [2009](yr) gia nhieu vay a
+- chao dung ! toi muon chon mua [matiz](mod) , dung co the tu van giup dc k ah ?
+- toi muon hoi xe [chevrolet](mak) [spark](mod) [2009](yr) [mau_xanh](color) da ban chua ? EOL toi goi dien thoai cho chu xe ko dc . EOL 01255999947 EOL xe [mau_xanh](color)_den EOL gia [119_trieu](price)
+- minh muon mua [isuzu](mak) [1.9](cc) t , ban tu van giup duoc khong ?
+- toi can mua [kia](mak) [k3](mod) ban co the lien lac voi toi ?
+- minh muon hoi ve chiec xe ma 1106380
+- bao gia lan banh [vios](mod) [1.5](cc) [e](ver) [so_san](gear)
+- anh dinh mua cai [29_cho](seat) EOL doi khoang [2008](yr) EOL ben em con k
+- toi tinh mua [vios](mod) [1.5](cc) [g](ver) [mau_kem](color) be , xin ban tu van
+- to xem xe [i10](mod) ban rao [328_tr](price) [so_tu_dong](gear) EOL co dung ko nhi
+- [ford](mak) [escape](mod) [2018](yr) khi nao co hang the b
+- toi muon nhan gia chuan cua [sunny](mod) [xv](ver)
+- minh muon ban tu van con xe [tuscani](mod) doi [2009](yr) EOL [so_san](gear) EOL ; (
+- cho minh hoi thong tin mot ty EOL bxhlink EOL anh thay xe nay minh ban [699_trieu](price) la bao gom thue chua em nhi ?
+- toi muon mua xe cu gia tu [80_concat_150_tr](price)
+- muon mua xe [santafe](mod) [may_dau](fuel) EOL xe cu
+- e thay ben minh co dang ban xe EOL ban o to [ford](mak) [ranger](mod) [2.2](cc) [xlt](ver) cu [mau_bac](color) , nhap khau [so_san](gear) , gia [600_trieu](price) EOL ko biet xe nay ben chi da ban chua a
+- cho hoi xe [vios](mod) gia bao nhieu ban
+- xe [toyota](mak) [vios](mod) [2018](yr) nhap khau thai lan co ve viet nam khong ?
+- toi co y dinh mua xe nhung chua chon duoc mau
+- chi oi EOL toi muon mua xe tam vai chuc ve tap lai voi di vong vong thi on k chi EOL con kinh nghiem chon xe thi minh co the hoi ai , tui moi nen ga vu nay lam
+- anh hoi cai con xe [vios](mod) EOL 30a44252
+- sao x[e](ver) [yaris](mod) [e](ver) gia cao th[e](ver)
+- a cho hoi [morning](mod) ba du [so_san](gear) gia bn anh .
+- a dang quan tam dong xe [kia](mak) [rio](mod) , e tu van cho a duoc khong ?
+- minh muon tim xe [kia](mak) [van](sty) EOL [2014](yr) EOL [mau_den](color) EOL hoac xanh dam EOL ben minh co ko
+- minh muon xem mua xe [fortuner](mod) EOL ban o dau nhi
+- toi can tim mua xe cu [fortuner](mod) doi [2015](yr) [mau_trang](color) [so_tay](gear) [may_dau](fuel) , tai [da_nang](city) , gia dao dong [770_tr_concat_820_tr](price) . mong ad tim giup . cam on
+- cho e hoi mua xe tam [1_ty_800](price) do lai thi nen mua xe gi a . xe [5_cho](seat) , gam cao , dang the thao EOL dang [suv](sty)
+- gia xe [grand_i10](mod) [2017](yr) [418_tr](price) la xe moi phai khg ?
+- co xe [porter](mod) 2 dong lanh 1 t k
+- anh dang tim xe [ford](mak) [ranger](mod)
+- [ford](mak) [ranger](mod) gia bao nhieu
+- [mazda_3](mod) [2016](yr) gia bao nhieu
+- xin tu van giup minh dong xe [ecosport](mod) cua [ford](mak)
+- muon tim mua cai xe
+- cty ban co xe [accent](mod) loai [sedan](sty) ko , va [altis](mod) nam [2011](yr)
+- a co the dang ky tim xe [honda](mak) [civic](mod) [2009](yr) [so_tay](gear) [mau_xam_bac](color)
+- minh muon xe EOL co xe nao tam [300_trieu](price) k
+- cho mih hoi gia xe [audi](mak) [a8](mod) bao nhieu
+- minh muon xem xe thi xem o dau duoc a
+- toi can tim 1 con [xe_tai](sty) [hyundai](mak) 1.25 tan , doi [2004_den_2009](yr) . ban co the tim giup toi duoc khong ?
+- [suzuki](mak) grand gia lan banh bao nhieu a shop ? va e o duoi [hai_phong](city) , neu mua ben shop co che do van chuyen ve day ko ah ? [thaco](mak) a
+- con [xe_tai](sty) [kia](mak) [frontier](mod) 1.25 tan gia lan banh bao nhieu ban oi ?
+- chao anh , chi , toi muon nho ky thuat vien tu van giup toi ve gia xe [toyota](mak) [vios](mod) va chat luong xe mot chut co duoc khong .
+- toi muon vay tien mua xe xin tu van
+- cho ban co [i30cw](mod) doi [2009](yr) ko ? EOL hang nhap khau
+- [fortuner](mod) [4x2](tran) [v](ver) chinh xac la gia bao nhieu
+- minh muon tim mot chiec [toyota](mak) [vios](mod) hoac [k3](ver) [so_san](gear) di luot EOL mua tai [thai_nguyen](city)
+- cho m biet gia lan banh m2 EOL m o [ha_noi](city)
+- cho toi hoi gia xe [morning](mod) [ban_tai](sty) [2_cho](seat) doi [2012](yr) [so_san](gear) va [[so_tu_dong](gear)](gear) gia bao nhieu EOL doi [2011](yr) [[so_tu_dong](gear)](gear) gia bao nhieu vay EOL noi gi di chu
+- [ford](mak) [ecosport](mod) [2017](yr) EOL minh dang quan tam EOL online thi tu van giup minh nhe EOL zalo 0984449960
+- cho em hoi xe [mazda](mak) ben anh ban nhu nao anh oi
+- xe giuong nam yuchai bao nhiu z
+- em muon mua xe oto EOL ben anh co ban ko ah
+- chi can mua xe [7_cho](seat) da qua su dung EOL [innova](mod) [2016_tro_lai](yr) EOL [fortuner](mod) EOL [kia](mak) [carnival](mod) EOL tat ca la hang qua su dung EOL [so_tu_dong](gear) EOL con bao hanh EOL em nhe EOL co hang san luon em nhe EOL chi o [hcm](city)
+- toi muon mua chiec xe gia tam [100_concat_200](price)
+- toi muon mua xe [vivant](mod) doi [2009](yr) , xin hoi loai xe nay bao nhieu [cm3](mod) , 100 km bao nhieu lit xang
+- toi dang muon mua xe hoi , nhung tien hoi it . toi la bo doi , luong thang gan [15_tr](price) , vo luong [3.5_tr](price) / thang . nghe noi nha xe ho tro mua xe tra gop 100 % gia tri xe . vay xin hoi co dung khong a ?
+- cho minh hoi [elantra](mod) [2017](yr) am [1.6](cc) EOL gia
+- cong ty toi co nhu cau mua 1 xe [ranger](mod) [2.2](cc) [at](gear)
+- chao em ! cho anh hoi [g](ver)ia xe [toyota](mak) [corolla_altis](mod) [1.8](cc) [g](ver) [cvt](gear) [g](ver)ia bao nhieu vay em ?
+- can mua [innova](mod) [2008_concat_2009](yr) ?
+- ben minh muon mua 1 xe : [carry](mod) van euro 4 concat 2017 EOL lien lac voi minh theo so : 0925141518 nhe
+- minh muon tu van mua xe
+- lieu truong hai co ban [mazda2](mod) [1.5](cc) xe dan [so_san](gear) khong ?
+- toi dang quan tam dong xe dong lanh cu lai 1 tan cua hang [hyundai](mak) , hien tai ben minh co con dong nay khong ?
+- toi dang kiem xe [ban_tai](sty) gia [200_concat_250](price) mil
+- toi muon tim xe [vitara](mod) gia 150
+- minh can tu van xe [4_cho](seat) gia tam 500 tro lai ( da gom gia khi lan banh )
+- minh dinh mua mot em [mazda](mak) [323](mod) doi [2000](yr) EOL lan dau tien mua xe , khong ro loai xe nay di tot khong , hay hong khong va sua chua co de khong
+- bxhlink EOL con nay [so_san](gear) hay tu dong ban oi
+- minh can mua [xe_tai](sty) [van](sty) [ford](mak)
+- ban con ban xe [ford](mak) khong ? gia hien tai the nao
+- minh dang quan tam xe [mec](mak) [c200](mod) EOL [2010](yr) gia 625 t
+- hi . toi dang co nhu cau mua xe vitaza2017 trong thang 4 EOL vui long alo cho toi som EOL minh dang phan van giua xe [kia](mak) [morning](mod) [si](ver) [[1.2](cc)](cc) [mt](gear) va [chevrolet](mak) [spark](mod) [[1.2](cc)](cc) [lt](ver)
+- minh dang can tim mot xe [matiz](mod) [mau_do](color) doi khoang [2008](yr) gia [90_trieu](price) do lai ben ban co ho tro giup minh nha
+- [chevrolet](mak) [spark](mod) [so_tu_dong](gear) cu doi khoang [2014_tro_lai](yr) day gia nhu nao ?
+- em dang co y dinh mua xe [kia](mak) 3 chi tu van giup e
+- toi muon mua xe [kia](mak) [van](sty) gia duoi [200_tr](price)
+- ban co the tu van cho toi ve xe [k165](mod) chu
+- e muon hoi gia xe [city](mod)
+- minh dang tim 1 xe [hyundai](mak) [libero](mod) doi [2006](yr)
+- gia xe [attrage](mod) [mt](gear) [eco](ver) hien nay gia la bao nhieu ? co nhung khuyen mai gi ?
+- xe tren hinh do gia bao nhieu vay EOL ma tin : 637677
+- toi dang xem [chevrolet](mak) [spark](mod) doi [2009](yr) [an_giang](city) . xin hoi xe nay con ko vay EOL xem xe o dau vay
+- minh can tim mua xe [4_cho](seat) da qua su dung de di cho quen
+- minh muon mua xe [kia](mak) [248_tr](price)
+- minh tim xe [ford](mak) [focus](mod) [ecoboost](eng) [1.5](cc) ban [titanium](ver) , nhung chi thay trong [hcm](city) co , EOL minh o [hp](city) , muon mua xe o [hn](city) hoac cac tinh lan can thoi EOL a noi them la minh tim xe doi [2017](yr) , da qua su dung ,
+- cho hoi gia xe [fortuner](mod) [2008](yr) [2009](yr) [may_dau](fuel) gia nhieu v
+- xe [civic](mod) doi [209](yr) bao nhieu em ?
+- cho hoi can mua xe [kia](mak) [morning](mod) [1.0](cc) hien gio gia khuyen mai nhieu vay
+- toi muon hoi [ban_tai](sty) [mazda](mak)
+- minh o [quang_nam](city) co mua tra gop dc k
+- toi muon mua [kia](mak) [k200](mod)
+- chao anh , toi dang tim hieu dong xe [i10](mod) ban [1.2](cc) [at](gear) . vay anh cho biet gia ban va cac chuong trinh ho tro ( neu co ) ?
+- minh muon hoi ve xe [nissan](mak) [teana](mod) [2010](yr)
+- xe [so_tu_dong](gear) lan banh tai nha trang bao nhieu ? co chinh sach giam gi khong shop ? EOL toi o nha trang len show room hoi thi noi gia lan banh la 450 . khong biet ben ban co canh tranh ko & gt ; . than !
+- minh muon xem xe [mercedes](mak) [glk300](mod) [amg](ver2) doi [2012](yr) EOL ma tin : 1308209
+- minh dang nghien cuu muon lay xe [starex](mod) [3_cho](seat) ben minh con hang khong nhi
+- toi dang co nhu cau mua xe [lacetti](mod) [se](ver) doi [2010](yr) ban co the gioi thieu cho toi duoc ko
+- xe [volkswagen](mak) [touareg](mod) doi [2008](yr) EOL ben minh con xe nay khong a
+- minh dang can chiec xe [fortuner](mod) doi [2010](yr) ben ban co san khong
+- minh dang tim hieu xe [kia](mak) [morning](mod)
+- can mua [camry](mod) [2.5](cc) [q](ver) [2015](yr) [mau_bac](color) EOL xe su dung roi
+- bao gia cho minh xe [van](sty) [lublin](mod) nhe . EOL thai : 0964.120.126 EOL thanks
+- xe [kia](mak) [morning](mod) [1.0](cc) [mt](gear) gia [327_tr](price) tai cua hang phai khong
+- cho minh hoi [kia](mak) [morning](mod) nhap khau [mau_xanh](color) doi [2015](yr) gia bao nhieu
+- dai ly cho xin gia ban [at](gear) [elantra](mod) [2017](yr)
+- toi o buon ma thuot . dang can mua 01 xe [suzuki](mak) [van](sty) [7_cho](seat) cu doi [2000_den_2005](yr)
+- em co nhu cau tim 1 mot xe o to
+- toi thay cong ty ban xe [byd](mak) fo [2011](yr) [mau_xanh_lam](color) gia [160_tr](price) ( xe cu ) co phai k
+- minh can mua xe [4_cho](seat) khoang 500.000.000 d mong ban goi tu van giup minh : khanh thi thuy 01693378279
+- minh dang quan tam toi [bt50](mod) [2.2](cc) [at](gear)
+- a oi ek hoi gia xe [byd](mak) [f0](mod) [2016](yr) moi gia bao nhieu ah EOL [so_tu_dong](gear)
+- em muon hoi [xe_tai](sty) 8 tan [thaco](mak) [ollin](mod) [800](mod) , doi [2015](yr) , [mau_trang](color)
+- toi can mua mua chiec [mercedes](mak) [2007](yr) EOL trong nuoc [tphcm](city) hoac [da_nang](city) gia : [320_tr](price)
+- [kia](mak) [morning](mod) ban [2015](yr) gia bao nhieu vay
+- cho minh hoi co xe cu [ford](mak) [transit](mod) khoang 4 [5_tram_trieu](price) k
+- anh / chi cho minh hoi co chiec [fortuner](mod) cu [mau_den](color) nao ko a ? EOL san xuat khoang [2010_concat_2012](yr) EOL [may_xang](fuel) a EOL neu co thi bao minh nhen EOL [mau_trang](color) cung duoc
+- ban minh co xe [chevrolet](mak) [spark](mod) cu ban ko ban oi
+- lam on tu van giup minh ve viec mua xe cu .
+- a dinh mua xe [vios](mod) [mau_den](color) gia ca thap nhat la bao nhieu
+- xe [vios](mod) [mau_do](color) gia bao nhieu ha em ?
+- bao minh gia chuan xe nay duoc ko ban
+- minh muon hoi bao gia [honda](mak) [city](mod) [1.5](cc) [top](ver)
+- em oi gara minh co xe [kia](mak) [k3](mod) cu [mau_den](color) khong ?
+- cho minh hoi chiec [kia](mak) [korando](mod) [dat](ver) gia bao nhieu sau khuyen mai
+- co con xe [jolie](mod) nao re k e
+- cho toi hoi muon mua xe [hilux](mod) [ban_tai](sty) thi hien nay loai xe nao re nhat
+- anh nho 1 chut EOL a dang tim con xe [ford](mak) [everest](mod) [2006](yr) [mau_xanh](color) [so_san](gear) em xem co tin ban do ho a ko
+- [vios](mod) [e](ver) [so_tu_dong](gear) gia bao nhi[e](ver)u ban oi
+- cho minh hoi gia [758_trieu](price) co dung la [civic](mod) [1.5](cc) t ban l hay ban nao ?
+- minh muon hoi [transit](mod) [16_cho](seat) [2016](yr) [tieu_chuan](add) gia tot con bao nhieu ha ban
+- toi vua thay gioi thieu xe oto [mazda_3](mod) doi [2003](yr) gia [200_trieu](price) , toi muon hoi mua xe bang hinh thuc vay EOL neu vay [100_tr](price) thi gian la 2 nam thi lai suat la bao nhieu ?
+- xin chao , toi dang tim hieu de mua xe tam [450_tr_den_700_tr](price) ( gia xe lan banh ) , neu ban co thoi tu van giup toi qua email : [avanlanche](mod) . vn @ gmail . com
+- co xe nao doi [2010](yr) gia [150_tr](price) ko ban
+- cho minh hoi con [ford](mak) chut
+- cho toi hoi gia xe [auman](mod) [d300](ver) ?
+- minh can mua 1 chiec [xe_tai](sty) EOL tam tu 1.1 den 1.4 tan , thung kin EOL sep thi dua la sep ky thoi chu co nho qt gi dau EOL sorry
+- chi muon mua mot chiec xe gia tu [300_tro_lai](yr) co ko em EOL xe [so_tu_dong](gear)
+- minh muon dc tu van ve xe duoc k ?
+- xe [matiz](mod) [mau_vang](color) bien [bac_giang](city) con ko
+- toi muon mua xe tai [bac_ninh](city) vay toi can toi dai ly nao o day
+- chao ban minh muon mua 01 chiec xe [fortuner](mod) [so_tay](gear) doi [2010](yr) thi gia bao nhieu do ban
+- ad co the tu van cho mot vai dong xe cu tam tren duoi [250_trieu](price) duoc khong a , [vios](mod) , [kia](mak) [morning](mod) , [hyundai](mak) get thi mua duoc doi nao vay ad voi tam tien tren . thanks !
+- em muon tim mua xe [previa](mod) doi [2010](yr) EOL [7_cho](seat)
+- [chevrolet](mak) [lacetti](mod) xe moi co kg EOL chao ban co tren web khong
+- thay ben a gioi thieu con [subaru](mak) , muon tim hieu dong xe nay . anh co the vui long gioi thieu qua dc ko ?
+- cho minh gia xe [chevrolet](mak) [aveo](mod)
+- em muon hoi ve xe o to tai [van](sty) [daewoo](mak) [damas](mod) san xuat nam [2013](yr) EOL cu thi gia the nao a
+- cho hoi xe [spark](mod) [duo](ver) bao tien ban nhi
+- minh dan[g](ver) quan tam con [yaris](mod) [1.5](cc) [g](ver)
+- cho toi hoi gia xe [vios](mod) [2017](yr) EOL em
+- [hilux](mod) [2.4](cc) [g](ver) [at](gear) [2018](yr) [g](ver)ia [695_tr](price) co [g](ver)iam ko ban
+- [vios](mod) [g](ver) [mau_do](color) con co xe a
+- em muon mua 1 xe [i10](mod) nhap khau [so_san](gear)
+- chao a e muon tim con [triton](mod) [2_cau](tran) [so_san](gear) doi [2015_concat_2017](yr) , a co xin gioi thieu e nhe 0986528882
+- minh muon mua xe khoang tien duoi [800_trieu](price) . EOL [sonata](mod) [mau_trang](color) doi [2013](yr)
+- bxhlink EOL xe [mau_do](color) nay a
+- ben minh con xe [chevrolet](mak) [cruze](mod) doi [2011](yr) nao gia [350_tr](price) [mau_den](color) ko nhi
+- ben minh dang can mua xe [[[ban_tai](sty)](sty)](sty) de phuc vu cho cho hang EOL nhung ben minh van con dang phan van EOL xe [[[ban_tai](sty)](sty)](sty) cho cho chieu cao duoc bao nhieu . neu de phuy dau chieu cao 960cm dung thi co duoc phep van chuyen khong ? ? can phai rang day hay gi k ? ? tai trong cho phep1 toi da bao nhieu . de ben em tinh xem cty nen mua xe [[[ban_tai](sty)](sty)](sty) hay [xe_tai](sty) ? ?
+- a ban [kia](mak) la xe [van](sty) hay xe [4_cho](seat) vay a
+- bxhlink EOL chiec nay con ko a
+- toi can mua 1 con de chay uber EOL ko biet can con xe nao tot
+- [xe_tai](sty) [kia](mak) 1 t9 moi gia bao nhieu vay ?
+- toi dang co du dinh mua mot chiec xe tam gia khoang [500_trieu](price) ban tu van dum xem nen mua xe nao cho hop ly ?
+- [kia](mak) doi [2017](yr) EOL co [mau_den](color) k ag
+- minh muon mua xe oto cu
+- gio mua [mazda_6](mod) cu [mau_trang](color) tam bao tien em nhi EOL minh hoi cai xe [2013](yr) va [2014](yr) khac gi nhau
+- cho e hoi a co con [chevrolet](mak) [spark](mod) muon ban ak
+- alo minh dg can mua xe sd cho hoi xe cua minh the nao taxi hay salon vay
+- xe [hyundai](mak) [grand_i10](mod) [1.0](cc) [mt](gear) . co loai chay dau [diesel](fuel) khong ?
+- xe nay ban chua em EOL lam sao de biet xe ban roi ma khong can goi dien cho ho
+- anh can tu van mua [mazda3](mod)
+- minh can mua o to cu
+- ben minh co xe nhap khau my ko EOL gia khoang [3_ty_den_5_ty](price)
+- toi muon hoi xe [crv](mod) dang ky mua bao lau thi duoc
+- a muon tim mua xe cu
+- minh la giao vien di lam hoi xa , it tien dang can mua 1 chiec xe cu de di gia dinh va di lam . cho hoi ban ban chiec [kia](mak) [morning](mod) [2007](yr) nay gia vay bot bao nhieu , giay to the nao ? EOL minh o [binh_phuoc](city) can rut hs de sang ten co van de gi kg ?
+- [ford](mak) [escape](mod) doi [2009](yr) gia [485_trieu](price) , co giam [dutro](mod) ko ? EOL [[460_trieu](price)](price) co ban ko ? EOL [[460_trieu](price)](price) co ban ko ?
+- ban co biet gioi thieu minh chiec [cruze](mod) voi
+- toi dang co nhu cau mua xe [2.4](cc) EOL dong thung lung EOL [k250](mod) EOL con ay gia bao nhieu chi nhi
+- toi muon mua [bmw](mak) cua ban
+- em muon mua con xe EOL bxhlink EOL gia 135 EOL con nay em co the vay dk [80_tr](price) ko ? ? ?
+- ban o dau EOL xem xe tai dau
+- ben minh co chiec [everest](mod) doi [2008](yr) [may_dau](fuel) [so_san](gear) ko
+- xin chao , minh can tu van ve chat luong , gia thanh xe [santafe](mod) [gold](mod) [2005](yr) nhanpj khau , gia tam khoang bao nhieu thi mua duoc .
+- toi o [hn](city) . toi co luot trang web nao thay [samsung](mak) co so ban hang o [[ha_noi](city)](city) . EOL toi muon hoi gia [thaco](mak) [towner](mod) 990 kg thung kin o [[ha_noi](city)](city) bao nhieu tien
+- minh muon mua xe [hyundai](mak) loai [ben](mod) 3 chan . thung co khoi luong lon nhat la bao nhieu m2
+- a hoi xe [7_cho](seat) ben em dang giao 589 t , giam [30_tr](price) nua phai k e
+- cho anh hoi gia xe [sunny](mod) [xv](ver)
+- xe [[morning](mod)](mod) sang [2017](yr) gia co giam ko ban EOL [[morning](mod)](mod) [van](sty) y
+- co loai xe [7_cho](seat) nao tam [200_den_300_trieu](price) khong ban doi tu [2006_concat_2010](yr)
+- toi muon hoi gia xe [vios](mod)
+- minh muon tim [kia](mak) [morning](mod) khoang doi [2011_concat_2014](yr)
+- minh o [hn](city) EOL muon mua xe [mazda_2](mod) [s](ver) EOL nhap khau EOL gia tot tu [350_concat_380_tr](price) EOL nho banxehoi . com tim giup minh
+- quan tam [camry](mod) [v6](ver)
+- minh muon mua xe da qua su dung EOL neu co lh minh nhe EOL 0978047048 EOL cam on nhieu
+- ban cho minh hoi [kia](mak) [k190](mod) co dieu hoa k vay EOL xe thung kin khi lan banh gia bao nhieu
+- toi muon tu van loai [xe_tai](sty) [h100](mod) cua [hyundai](mak) EOL gia ca va hinh thuc thanh toan EOL co the tu van giup toi khong ?
+- xe con hay da ban roi anh
+- xin chao EOL cho minh hoi minh mun vay mua xe o to
+- toi co mot vai dieu can hoi vao ngay mai EOL ban co san sang giup toi ko EOL toi muon mua ban [2.5](cc) [cx5](mod) [2018](yr)
+- e dang muon mua cai [morning](mod) a cho e xin chi tiet xe nha a
+- chao e EOL ben em dang ban xe [mazda](mak) 3s dang ky chinh chu thang 11 / [2014](yr) [mau_bac](color) , noi that da EOL da ban chua em ?
+- minh can mua xe [ban_tai](sty)
+- minh muon mua chiec [innova](mod) cu
+- minh muon xe cu EOL khong bit o minh co ko ?
+- xin chao ban , minh dang quan tam [wildtrak](ver) [2.2](cc) , ben ban da bao gia nhung minh thay chua co nap thung , neu cong vao thi tong chi phi la bao nhieu ? , cam on
+- ban bao ho minh gia xe [i_10](mod) cu voi cam on ban
+- minh muon mua xe [kia](mak) new [morning](mod) cu EOL nhung minh phan van ve chat luong cua xe da qua su dung
+- em o [hn](city) thi viec mua xe cu o [tp_hcm](city) co kho khan gi khong anh nhi ?
+- ban cho t hoi mot chut EOL t dang quan tam toi dong xe [focus](mod) [1.5](cc) [ecoboost](eng)
+- gia [cer[at](gear)o](mod) [1.6](cc) [at](gear) [2017](yr) bao nhieu do ban
+- cua hang con xe [audi](mak) [q5](mod) doi [2009](yr) [premium](ver2) khong ?
+- con xe [matrix](mod) nay ban ko
+- cho toi hoi gia xe [cr_v](mod) [2.4](cc) ban thuong [mau_den](color) gia net la bao nhieu ? bao cho toi gia chinh xac nhat nhe ! cam on !
+- toi can tu van [k5](mod) ban [2.4](cc) [gt](ver) EOL ben dai ly co chuong trinh khuyen mai trong thang nay nhu the nao EOL va quan trong nhat toi muon hoi la man hinh truoc ban tahoe da duoc thay doi chua
+- co loai [xe_tai](sty) nho ko ban khoang 1.4 tan
+- minh muon mua [xe_tai](sty) 2.4 t
+- [[hyundai](mak)](mak) [[elantra](mod)](mod) va [honda](mak) [city](mod) dong xe nao xai ngon hon ha bac EOL [[hyundai](mak)](mak) [[elantra](mod)](mod) xai ok k bac , nhiu chuc nang qua co khi nao bi loi k bac , nho bac gop y dum toi . cam on ah
+- bxhlink EOL cho hoi xe nay con ko ban
+- em muon mua dong [xe_tai](sty) nho thi chon nhung hang xe nao tot va uu diem hon chi EOL chi ngoc oi
+- t dang muon tim hieu xe [swift](mod) EOL ban co the bao gia cho minh k
+- em dang can tim xe [vios](mod) cu [2012](yr)
+- ban oi cho minh hoi EOL xe dau keo [hyundai](mak) [trago](mod) 16.5 tan . vaneo xuat nam [2010](yr) EOL ben minh gio ban bao nhieu vay
+- ma tin : 1740157 ma nay co xe lay ngay khong ? ?
+- xe [grand_i10](mod) voi [morning](mod) EOL ben ban ban gia bao nhieu vay ?
+- [chevrolet](mak) [spark](mod) 211 [mau_trang](color) ban chua vay EOL xe chay xang ha c EOL e can 1 chiec chay taxi ko biet dung dc chiec do ko EOL toi can mua e taxi nay
+- cho toi hoi neu toi mua 1 chiec [bmw](mak) [i8](mod) thi toi phai chi bao nhieu vnd vay tu a den z EOL xe moi chua chay
+- cho minh hoi xe [suzuki](mak) [carry](mod) [2013](yr) con khong
+- minh dang can mua xe oto [5_cho](seat) da qua su dung
+- anh muon mua 1 chiec xe [hyundai](mak) [starex](mod) gia [250_tr](price) EOL thu tuc vay sao em
+- ben chi hien tai co chiec xe [chevrolet](mak) [captiva](mod) nao chay dau , [so_san](gear) , doi 2008 tro len ko a
+- k co [100_trieu](price) mua xe dc khong be
+- xin cho biet gia lan banh xe [mitsubishi](mak) [attrage](mod) [mau_do](color) ( minh o [binh_duong](city) )
+- co xe [kia](mak) [morning](mod) gi tren duoi 200 t ko add
+- hien toi dang muon dat mua [crv](mod) [1.5](cc) [turbo](eng) [2018](yr)
+- cho anh hoi mua xe [kia](mak) [morning](mod) [mt](gear) [2014](yr) tai cam pha
+- minh thay ban dang chiec [cerato](mod) [2018](yr) nhap khau a ban ? EOL minh dang quan tam EOL call me : 0936499525
+- cho anh hoi [city](mod) [2017](yr) [1.5](cc) [top](ver) gia dam phap voi ben em toi thieu la bao nhieu
+- 2015058 ma xe nay con thuong luong dc k anh
+- minh muon hoi gia cua [mirage](mod) [cvt](gear) bao nhieu vay
+- a cho e hoi ben minh con [kia](mak) [rio](mod) den k
+- xin chao , vui long cho toi hoi chiec [innova](mod) [2013](yr) ( hinh anh 13 ) gia 632 con ko
+- xin hoi [kia](mak) ri 0 moi [2018](yr) . [so_tu_dong](gear) gia
+- minh dang tim chiec [cruze](mod) [ls](ver) [so_san](gear) EOL doi [2014](yr) , hoac [2015](yr)
+- minh can mua cai [vios](mod) [2008](yr) gia bao nhieu anh
+- xe nay co san hay phai cho ban ?
+- minh mua xe [toyota](mak) [camry](mod) doi cu 98
+- toi muon mua chiec [innova](mod) ma ac da dang ban . toi muon biet them thong tin ve xe ?
+- xin hoi co nen mua [corolla](mod) [1.3](cc) nam [2003](yr) gia 167 khong anh chi ?
+- minh moi biet lai xe , cung thich xe nhung ko co nhieu tien , minh dinh mua xe [kia](mak) [pride](mod) co duoc ko , xe nay the nao
+- minh muon mua xe [legend](mod) doi [98](yr) bien 30a 58311
+- ban oi cho minh hoi xe [hyundai](mak) [grand_i10](mod) co [[mau_den](color)](color) k ? minh chi thay [sedan](sty) moi co [[mau_den](color)](color)
+- minh co tam [150_tr](price) EOL hien ko biet mua xe nao la phu hop
+- chao em , cho anh hoi anh mua xe [yaris](mod) sx [2011](yr) , gia [500_tr](price) bien [ha_noi](city) , thi thi theo quy dinh anh phai dong cac loai le phi gi de de xe lan banh duoc
+- minh muon hoi xe [ford](mak) [ranger](mod) [xl](ver) [2.2](cc) l [mt](gear) [4x4](tran)
+- toi muon mua chiec [hyundai](mak) [santafe](mod) khoang [350_tr](price) . nhung mai o [kien_giang](city) sao mua dc EOL doi [2005_concat_2006](yr) EOL mua xe nhap khau
+- ben minh co thu mua xe k ban ? EOL ben minh can ban chiec [kia](mak) [sedona](mod) doi [2015](yr) , chay dc 20.000 km ( [mau_trang](color) )
+- cho em hoi gia xe [vios](mod) [2018](yr) a ?
+- minh muon hoi mua xe EOL cu
+- em co nhu cau nhu sau : EOL em muon mua 01 xe voi gia tu [300_concat_350_trieu](price) dong EOL nhu cau em la thing thoang di lai quanh [hn](city) EOL em kinh mong anh tu van giup em
+- ben ban co dong xe nao ve [camry](mod) chu
+- xe nay con khong ban ?
+- [suzuki](mak) [celerio](mod) toi can mua EOL vui long cho biet gia
+- bxhlink EOL anh cho em hoi xe nay con khong nhe
+- cho minh hoi EOL xe [everest](mod) [uw151](ver) 2 EOL gia bao nhieu ak EOL 0978747300 EOL [2012](yr) ak
+- chiec xe [iq](mod) [2012](yr) [mau_do](color) nay da ban chua a
+- minh muon mua xe [2_cho](seat) EOL tam [300_tr](price) do lai EOL ban tu van cho m dc k
+- xe [x2](mod) bua nay gia bao nhieu anh ?
+- minh muon mua 1 chiec [innova](mod) minh muon the chap lai xe do dc ko minh mua ve de cho chuyen gia thue lai chay trong khu cong nghiep
+- cho minh hoi xe nay ca dang ky la bao nhieu vay
+- gia xe [xpander](mod) ra giay la bao nhieu ? EOL anh o tinh
+- anh chi cho em xin bao gia va thong tin chi tiet [xe_tai](sty) dong lanh 2 tan qua email : tam . nguyen @ mavinfood . com EOL em cam on
+- cho em hoi xe nhap khau an do co [xe_tai](sty) 500 kg den bao 900 ko ah
+- minh lan dau mua xe nen khong biet nen mua xe cu hay xe moi EOL ban cua minh thi bao nen mua xe cu , nhung minh khong biet chon xe cu nhu the nao cho chuan EOL ban tu van giup minh voi a
+- minh dang tham khao mua xe [so_tu_dong](gear) EOL tam gia khoang 450 EOL ban co the tu van cho minh dong nao phu hop nhat EOL minh thich xe [mau_trang](color) EOL loai tiet kiem nhien lieu
+- xin hoi gia lan banh xe [cer[at](gear)o](mod) [1.6](cc) [at](gear) la bao nhieu
+- cho minh hoi o [bac_ninh](city) co cho nao ban xe ko ah EOL xe [innova](mod) [2015](yr) da qua su dung
+- cho minh hoi [mazda](mak) [bt50](mod) [mau_xanh_luc](color) [ban_tai](sty) bien hoa gia bao nhieu
+- toi muon hoi chiec xe [rav4](mod) [mau_den](color) EOL tai [tp_hcm](city) EOL dang dang ban gia [563_tr](price)
+- minh dang muon tim mua xe [chevrolet](mak) [captiva](mod) [may_dau](fuel) [so_tu_dong](gear) doi tu 2010 tro len EOL ban co the tim giup minh ko
+- e muon mua 1 e xe [matiz](mod) cu voi gia [honda](mak) [60_trieu](price) lieu co xe tam tien day ko a
+- xe nay lan banh gia bao nhieu vay ? toi o q . binh tan . co tinh luon bao hiem vat chat .
+- minh dang quan tam chiec [colorado](mod)
+- cho minh hoi gia xe [ford](mak) [fiesta](mod) [1.0](cc) gia bao nhieu EOL hien gio con [mau_den](color) khong EOL ban oi cho minh hoi . minh dang tham khao xe [mazda_3](mod) . sao thay gia co nhieu ben chenh lech nhau nhieu vay ? EOL co ben ban [635_tr](price) co ben la [685_tr](price) nhi ?
+- anh can mua 1 chiec xe khoan [400_trieu](price) EOL em tim dum anh nhe
+- ben ban co xe [ban_tai](sty) [hilux](mod) [1_cau](tran) [so_san](gear) cu ban ko
+- toi can mua [honda](mak) [civic](mod) cu [mau_den](color) , hoac [kia](mak) [forte](mod) den [so_tu_dong](gear)
+- cho minh hoi xe nham ben ban bao gia thuc luon ha ban
+- bao gia giup minh [mazda_2](mod) [sedan](sty) voi
+- cho hoi gia xe lan banh [ford](mak) [cresta](mod) la bao nhieu
+- toi muon mua xe [daewoo](mak) [lanos](mod) . nen muon tim hieu ve uu nhuoc diem cua xe doi [2004](yr) . rat mong duoc giup do banxehoi , xin cam on ! , ,
+- em thay thong tin con [altis](mod) ben anh ban EOL anh co the cung cap them thong tin co dc ko ? EOL xe co con ko ah ? EOL xe co tung bi ngap nuoc ko ? EOL giay to xe nhu the nao ?
+- ban oi [kia](mak) [morning](mod) [van](sty) doi [2012](yr) ban chua
+- minh dang quan tam den xe [2011](yr) . di [2000](yr) km . alo som giup minh 0934354848 huy EOL ma tin 1283750 EOL toi muon hoi gia xe 334 la da co thung bat chua va neu chua thi tien dong thung la bao nhieu . toi cam on ,
+- co xe [mazda_6](mod) [mau_trang](color) cu tam bao tien vay
+- tui muon vay tien de mua xe [hyundai](mak) [l10](mod) [1.0](cc) [mt](gear) co dc ko ?
+- ( devil ) EOL [hyundai](mak) [elantra](mod) [2017](yr) [mau_den](color) [1.6](cc) [at](gear) lan banh bao tien vay em
+- cho tui mua xe
+- alo ac co xe [7_cho](seat) ko vay
+- minh can xem xe
+- b bao gia cho m con xe [vios](mod) ban [g2018](ver)
+- [kia](mak) [morning](mod) [1.0](cc) [mt](gear) EOL thay ban gia 316 , co giam gia hong ban , tra tien mat
+- em muon mua 1 con xe EOL [fortuner](mod) [may_dau](fuel) EOL doi [2012](yr) EOL ben shop co k ah
+- ben a can cung cap 01 may xuc lop loai 0.6 m3 ; 0.76 m3
+- cho minh hoi ? EOL ben minh [cx5](mod) [2018](yr) con mau gi ?
+- toi dang can tu van mua xe for [laser](mod) cu doi tu [203_concat_205](yr) , [so_san](gear)
+- xe [ford](mak) [ranger](mod) bao nhieu vay
+- em muon mua [kia](mak) [cer[at](gear)o](mod) [1.6](cc) [at](gear) . cu tu van cho em voi nhe
+- minh dang muon tim 1 xe cu [i10](mod) hoac [kia](mak) EOL doi 2011 tro len EOL [so_tu_dong](gear) a EOL ko biet ben ban dang co ko
+- chao ban minh dang tim mua xe noi ban ban xe gi va dia chi noi ban xe de minh len xem xe
+- toi muon mua xe [kia](mak) [morning](mod) [2010](yr) [at](gear) nhu chiec nay EOL do toi ko sd email tren dt dd ( ma sd mail trong laptop ) nen co the nt cho toi nhe ! cho toi biet bien so dk va neu co thi xem xe o dia diem nao nhe ! xin cam on !
+- chao ban toi muon tim hieu ve xe [innova](mod) doi [2006](yr)
+- cho e hoi xe [dongfeng](mak) hoang huy 4 chan doi [2014](yr) a dang con k ah ? EOL e dang co nhu cau muon mua , neu con thi e qua e xem xe . EOL co j a lien lac vao sdt nay cua e nhe . 0936637709 .
+- con xe [ford](mak) con k ban
+- toi can mua xe [lacetti](mod) [chevrolet](mak) doi [2011](yr) , [2012](yr)
+- toi o [son_la](city) , muon tim hieu ve xe tmt [ca3513](mod) t [mb](mod) [1.25](cc) t , ben minh co dai ly nao ngoai bac khong ?
+- [ford](mak) [focus](mod) [2013](yr) ban chua bac . xem xe o dau ah
+- toi dang co nhu cau mua xe cu EOL xin loi cho toi hoi xe nay la cua ca nhan gia dinh su dung hay cua taxi ra
+- toi co khoang 200 toi muon mua mot chiec doi [2015](yr) hay [2016](yr) co duoc ko
+- [nissan](mak) [navara](mod) [2011](yr) ban chac gia bao nhieu . toi can mua .
+- anh chi cho em hoi , co phai ac co ban xe [vios](mod) [mau_vang_cat](color) ko a EOL neu dung , thi ac hoi am lai cho em nha , em dang muon tim mua xe
+- cho toi hoi [bmw](mak) nay co o vn chua
+- ben minh co xe [innova](mod) [2010](yr) 8 tan thung dai ko ak
+- may dao banh xich [volvo](mak) [ec55b](mod) [jac](mod) bao [hijet](mod) ak
+- ban lam on cho hoi EOL minh muon mua xe o to tam gia [250_tr_concat_350_tr](price) EOL xe [so_tu_dong](gear)
+- xe o day la cua tu nhan nhung do cong ty ban a
+- gia [attrage](mod) [cvt](gear) hom nay bao nhieu ?
+- cho e hoi gia civic cu doi [2010](yr) gia tnao
+- cho minh hoi , minh muon mua xe khoang tam [200_trieu](price) [250_trieu](price) , ban check giup minh dc ko
+- cho em hoi xe range rover evoque [2017](yr) gia bn EOL de gia ban 1000000 vnd la sao
+- chao e , c muon hoi mua [xe_tai](sty) [isuzu](mak) 5 tan , cho e co ko e
+- ben anh buon ban xe hay sao vay ? EOL co con [matiz](mod) nao k a
+- toi co nhu cau mua [chevrolet](mak) [cruze](mod) doi [2014](yr) [so_san](gear)
+- ban vui long gui cho minh bao gia xe [kia](mak) [ban_tai](sty) [so_tu_dong](gear) cho minh
+- vui long cho xin gia ban [chevrolet](mak) [trailblazer](mod) [2_cau](tran) [so_tu_dong](gear) ( lan banh )
+- chi oi em muon hoi . cho chi co ho cho mua xe tra gop ko ah
+- [santafe](mod) anh da ban chua ?
+- a cho e hoi chut ben minh con [cruze](mod) k a
+- toi o hue , mua xe nay thi gia lan banh la bao nhieu ?
+- minh dang tinh mua 1 chiec xe su
+- xin hoi gia ban xe [camry](mod) [2016](yr) h la bao nhieu EOL xe [corolla_altis](mod) cu la bao nhieu
+- toi dang can 1 chiec xe [innova](mod) [2016](yr) gia tot
+- hien tai e dang muon mua 1 chiec xe 500 kg doi [2016](yr) , e o [tphcm](city) .
+- cho em hoi gia [kia](mak) [k3](mod) [2016](yr) gia bnhieu a
+- chiec ban [isuzu](mak) [dmax](mod) [3.0](cc) l [2012](yr) , [mau_bac](color) , [335_tr](price) EOL con ko a
+- uh EOL a mua mua xe [hover](mod) EOL xe [spark](mod) [duo](ver)
+- co dong xe nao khoan 250 t k ban oi
+- minh muon hoi [transit](mod) [16_cho](seat) [tieu_chuan](add) gia bao nhieu
+- hi ban , minh dang co nhu cau muon mua [xe_tai](sty) 1.4 tan cu EOL minh o [binh_thuan](city) EOL lh minh sdt : 0988337857
+- ua xe [h3f](mod) nay xuong gia con [280_tr](price) thoi ah
+- anh muon mua xe nay thi lien he voi ai EOL bxhlink
+- cho hoi anh o dau ? EOL toi can mot xe [sedan](sty) [g](ver) so_tu_don[g](ver) EOL lien he lai sdt : 09053577759 EOL lien he sdt : 0905357759
+- cho minh dang co xe [city](mod) phien ban [2017](yr) ha EOL gia ban thuc te la bao nhieu vay ban ?
+- can mua xe [honda](mak) [city](mod) nam [2013](yr) , [mau_trang](color) , [dbs](mod) [tp_hcm](city) EOL sdt cua toi : 0938 11 91 96
+- minh muon mua 1 con [rangerover](mod)
+- ban co the tim hieu giup minh chiec [ranger](mod) [xls](ver) [mt](gear) [2014_concat_2015](yr) nao o mien bac hay ko
+- ban xe o to [[isuzu](mak)](mak) [[hi_lander](mod)](mod) [[2004](yr)](yr) gia [158_trieu](price) tai tp . [hcm](city) concat 01269 782 759 EOL xe [[isuzu](mak)](mak) [[hi_lander](mod)](mod) [[2004](yr)](yr) EOL xe nay con khong anh
+- mua [mazda](mak) [2005](yr) [mt](gear)
+- xe [kia](mak) [rio](mod) moi thi xe lan banh bao nhieu ban oi ? EOL [sedan](sty) ay
+- minh o bien hoa EOL dang tim mot chiec xe cu de chay EOL nho em tu van giup
+- xe [kia](mak) [morning](mod) [2009](yr) [mau_vang](color) co con ban ko anh
+- minh muon biet gia xe [mazda_2](mod)
+- cho toi hoi gia xe [sorento](mod) [2wd](tran) [dath](ver) ben minh hien nay ban gia bao nhieu va co chuong trinh giam gia gi khong nhe . cam on
+- a cho e hoi [g](ver)ia ban [innova](mod) [2006](yr) [g](ver) la [365_tr](price) co hop ly hok ?
+- toi muon mua [xe_tai](sty) [veam](mak) [mekong](mak) thung bat , 950 kg EOL ben cong ty gia ban [148_trieu](price) phai khong a
+- minh muon tim hieu xe [mazda_3](mod)
+- cho toi hoi gia xe [mitsubishi](mak) [mirage](mod) [2016](yr) bao nhieu
+- can 1 chiec xe it hao xang EOL de tap chay
+- [suzuki](mak) [grand_vitara](mod) san xuat [2017](yr) EOL [mau_do](color) nhieu tien ban
+- anh co [lacetti](mod) [se](ver) bac , sx [2009](yr) , gia 275 da ban chua anh ?
+- cho minh biet khi mua xe [cerato](mod) [mt](gear) duoc khuyen mai nhung gi
+- minh dang can mua xe ah
+- ban cho minh hoi nhe EOL minh dang cho dau nam [2018](yr) de xem tinh hinh gia xe co giam them duoc chut nua khong ? EOL hien minh dang thich xe [mazda_3](mod) [sedan](sty) va thay gia la [650_tr](price)
+- minh dang quan tam den xe nay EOL hien xe co o showroom khong ? minh muon den xem xe
+- toi dang quan tam ban [lt](ver) [2.5](cc) [4x4](tran) [mt](gear) EOL [colorado](mod) EOL toi o [dak_lak](city)
+- may dao banh xich [volvo](mak) [ec55b](mod) cho em xin gia voi ak
+- xe [acent](mod) da co hang ban chua , gia nhieu
+- [kia](mak) [morning](mod) [si](ver) [at](gear) co [mau_den](color) khong
+- xe [[altis](mod)](mod) [15](yr)g 600 k co mua dc k EOL khoang 600 k co tim dc [[altis](mod)](mod) doi [15](yr) bang khong
+- can mua xe duoi 50 t
+- chi muon mua xe su coc nhe
+- em thong tin gia [kia](mak) 1.4 t
+- cho minh co ban xe da qua su dung roi ko
+- cho anh hoi gia xe [santafe](mod) [2.2](cc) [at](gear) [2wd](tran) gia [1.18_ty](price) da co thue chua em
+- minh muon mua xe [glc_250](ver) trong thang 9 nay co duoc k minh k dung mail so dt : 0963359964
+- xin hoi xe [civic](mod) doi [2009](yr) chinh chu , [so_tu_dong](gear) gia thi truong hien nay tam khoang bao nhieu a
+- anh muon mua xe [vios](mod) doi [2010](yr) xe tu nhan , khong chay taxi gia bao nhieu em
+- vay e hoi thong tin gia xe [kia](mak) [rio](mod) [sedan](sty) [2014](yr) gia nhieu vay chi ?
+- toi can mua 1 xe [audi](mak) moi
+- [kia](mak) [morning](mod) [mau_ghi](color) anh con khong a ?
+- toi can tu van them de mua 1 chiec [innova](mod)
+- cho minh hoi xe [kia](mak) [si](ver) gia [330_tr](price)
+- minh dang co nhu cau ban xe [gentra](mod) sx [2008](yr)
+- gia [mazda_3](mod) moi nay la bao nhiu chi . cu nay mem nhat la bao nhiu tien co the mua dc chi
+- anh dang quan tam den glc nhap khau . khi nao co xe ? ?
+- ben ban co xe [kia](mak) [rio](mod) nhap khau gia tot ko
+- can mua xe oto cu
+- chi co the tu van gium e ve dong xe [cruze](mod) dc ko a
+- cho minh hoi EOL gia xe ghi tren web EOL muon mua xe co mat them phi gi ko ban EOL xe da qua su dung
+- toi muon tu van ve dong xe [vios](mod)
+- hien tai e dang muon mua [xe_tai](sty) 1.25 tan EOL a co the tu van giup e EOL sdt / zalo 0974744818
+- toi muon mua 1 chiec xe [kia](mak) [picanto](mod) doi [2013](yr) hoac [2014](yr) [mau_do](color) co ai ban thi alo
+- chiec [i10](mod) doi [2010](yr) cho oto tien hung da ban chua chi
+- minh thay ben ban dang ban [triton](mod) EOL con ban [4x2](tran) [at](gear) khong ban EOL gia deal la bao nhieu va duoc khuyen mai the nao ban EOL ?
+- cho em hoi ti EOL cho anh co ban xe [luxgen](mak) [7_mpv](mod) [2011](yr) ko ? EOL gia mua xe moi la bao nhieu ah ?
+- ban oi EOL minh o [[dong_nai](city)](city) dai ly nao o [[dong_nai](city)](city) va [sai_gon](city) ban xe [vios](mod) re nhat xin cho minh thong tin EOL 0937979499
+- ben em ban xe o to cu ha ?
+- c dang muon tim hieu xe [i10](mod) [2014](yr) EOL ben ban la xe moi nhi
+- cho hoi ho khau [binh_duong](city) mua xe la bao nhieu
+- minh muon hoi gia xe [ford](mak) [ranger](mod) [xl](ver) [2.2](cc) l [mt](gear) [4x4](tran)
+- con dang can mua xe cu , neu bac ban vui long lien lac giup con .
+- chao ban . [morning](mod) [si](ver) [at](gear) o tinh [tay_ninh](city) tinh tong xe + phi la bao nhieu
+- anh cho em hoi cai con [lamborghini](mak) la [2_ty_4](price) ha anh .
+- dinh hoi con [ford](mak) [escape](mod)
+- toi muon hoi xe [honda](mak) [wigo](mod) bao gio co ban nhi ? EOL loai [1.2](cc)
+- gio em muon mua xe cu anh co the tu van gium e chut dc ko ah ?
+- cho anh hoi EOL [honda](mak) [civic](mod) [2016](yr) da co hang chua
+- anh con xe [230_tr](price) doi [2003](yr) anh ban chua ? EOL xe nay anh ban chua ? gia boa nhieu anh ban
+- to co xe [ford](mak) [mau_trang](color) [2_cau](tran) ban [3.2](cc) doi [2015](yr) phom [2014](yr) gia [720_trieu](price) EOL xe chay duoc 2 van mot chat dep
+- chi cho hoi xe [spark](mod) con hang k EOL trang boanxehoi ne co nhieu khach goi k em
+- ban cho minh hoi xe tren dien dan nay la nhu the nao
+- xin chao ngoc yen toi coi tren mang thay co dang ban xe EOL [chevrolet](mak) [cruze](mod) sx [2011](yr) [mau_trang](color) ma tin 1111635 gia ban [380_tr](price) gia nay con thuong luong khong EOL gia bot la nhieu
+- minh muon tim xe [kia](mak) [morning](mod) da qua su dung , [so_tu_dong](gear) doi [2010](yr) do ve day
+- minh muon bao gia cac dong [hyundai](mak) [hd](mod) 4 tan vs 5 tan thung kin inox
+- xin hoi dong [navara](mod) [2018](yr) nhap khau khi nao co tai dai ly
+- chi co the bao gia giup minh chiec [fn129](mod) EOL mv vm EOL 8 t2
+- xe [outlander](mod) khuyen mai nhu the nao
+- bxhlink EOL minh muon tham khao xe nay
+- e can mua xe [fd9000](mod) a cho em gia tot nhat a
+- em oi cho a hoi may cai tin het han nay ko up dc lai a
+- minh muon nap them tien vao tai khoan , ban giup minh voi nhe
+- toi can mua xe tam [500_tr](price) hay lien he gium EOL 0916930222
+- [chevrolet](mak) [cruze](mod) [cdx](ver) doi [2009](yr) EOL chiec nay ban chua vay EOL gia chuan [vios](mod) ecvt em nhe EOL sao em
+- [g](ver)ia xe lan banh [vios](mod) [g](ver) la bnhiu vay
+- [hyundai](mak) [click](mod) [1.4](cc) [at](gear) [mau_do](color) [2008](yr) gia thuc te la bao nhieu ?
+- gia xe [elantra](mod) [1.6](cc) a t EOL doi [2017](yr)
+- a oi cho e hoi ben minh co chiec [hd_72](ver) nao doi cao ko a ? ? ?
+- cho toi hoi gia x[e](ver) [vios](mod) [e](ver) [cvt](gear) chot gia la bao nhi[e](ver)u . duoc khuy[e](ver)n mai nhung gi ? thoi gian tu luc dat coc d[e](ver)n luc lay x[e](ver) la bao lau ? EOL x[e](ver) nay moi 100 % hay da qua su dung vay ban ?
+- xin chao ! xin cho biet gia xe [accent](mod) trong thang 9 / 2018 cua dai ly ban ra bao nhieu ?
+- chao anh chi ! cho minh hoi xe [mazda](mak) va xe [vios](mod) gia trong nam [2018](yr) da co vat chua va dai ly [da_nang](city) co ban khong
+- xe [560_trieu](price) doi [2017](yr) la xe [1.6](cc) hay [2.0](cc) vay EOL [hyundai](mak) [elantra](mod) ah
+- minh dang quan tam xe [suzuki](mak) grand [vitara](mod) ban [2.0](cc)
+- toi muon mua xe cu voi gia [400_tr_concat_500_tr](price) thi nen mua loai nao hop ly
+- cho anh hoi chut EOL ben minh co ban xe cu chu em
+- toi can mua xe [suzuki](mak) supper [carry](mod) [van](sty) doi [1997](yr) tai [[da_nang](city)](city) xin hoi ai can ban xe nhu vay thi lien he giup toi , tai [[da_nang](city)](city) 01202744879
+- minh thay gia [hyundai](mak) [accent](mod) [2017](yr) gia [516_tr](price) , minh co khoang [120_tr](price) co ho tro dc k
+- can mua xe [2_cau](tran) con chay duoc gia khoang [120_trieu](price)
+- [mazda_3](mod) [[2017](yr)](yr) ban facelift [640_trieu](price) khac ban thuong [[2017](yr)](yr) [600_trieu](price) o nhung diem nao /
+- toi can mua xe [mitsubishi](mak) [jolie](mod) cu voi so tien khoang [160_tr](price) do lai co con nao chat luong hop voi so tien tren thi lien lac voi toi
+- [vios](mod) [2018](yr) co xe tay lai thuan ko dai ly
+- ban oi cho mik hoi EOL xe tuong hai 6 tan [1_cau](tran) nang tai gia bao nhieu vay ban
+- cho minh hoi co xe nao o [da_nang](city) ban ko ban
+- co xe [suzuki](mak) [7_cho](seat) cu ko ban
+- [everest](mod) con hang ko anh oi
+- ha muon mua mot chiec xe EOL bxhlink EOL xe nay o [dong_thap](city) , ha o [binh_duong](city) sao mua duoc thua chi
+- minh dang xem xe [suzuki](mak) EOL [grand_vitara](mod) EOL tren nay co ban khong
+- cho minh hoi chut EOL minh muon mua 1 xe de di lam . minh muon ben ban tu van giup minh xem giua dong [escape](mod) [2002](yr) va [isuzu](mak) [hilander](mod) [2005](yr) thi cai nao hon ?
+- toi co [200_tr](price) EOL va muon tim dong xe [mazda](mak)
+- ben ban ho tro bao nhieu % EOL va nhung uu dai gi ?
+- xin chao bn a . minh dang tim de mua [xe_tai](sty) . muon bn tu van cho mk duoc khong a
+- chi dang quan tam xe [[7_cho](seat)](seat) EOL em co the gioi thieu cho chi loai xe nao [[7_cho](seat)](seat) k EOL chi thay xe [ford](mak) [escape](mod) [2015](yr) EOL xe nay bg gia bn e
+- [mitsubishi](mak) [attrage](mod) [mt](gear) [eco](ver) EOL dong xe nay , gia xe moi lan banh la bao nhieu nhi
+- cho em hoi , em muon mua 1 chiec xe [vios](mod) [1.5](cc) [g](ver) [2006](yr) cua 1 [g](ver)ia dinh tai sai_[g](ver)on , em thi dan tinh , ho khau chun[g](ver) voi bo me , em chua lap [g](ver)ia dinh , hien dan[g](ver) dan[g](ver) ky tam tru tai [can_tho](city) . co cach nao de em mua va lam thu tuc mua xe duoc khon[g](ver) a . em cam on !
+- minh dang co nhu cau mua xe [kia](mak) nhap khau EOL vang ! a co the de lai so dien thoai de e goi dien tu van cu the duoc khong a !
+- cho toi hoi gia xe [morning](mod) [5_cho](seat) moi lap giap ban [so_san](gear) gia
+- ban [tucson](mod) anh rao ban , la ban xang dac biet giong sx trong nuoc phai khong anh ?
+- minh dang tham khao dong su [7_cho](seat) ban tu van giup minh mot so xe doi tu [2005_den_2008](yr) nhe
+- ben anh can mua 01 xe loai [29_cho](seat) cua [thaco](mak) , em bao gia va cac dieu khoan thuong mai cho ben anh vao dia chi mail : ducloclilamis @ gmail . com nhe . ( bao cho ben anh ca 2 model nhe )
+- alo , xe [suzuki](mak) [2007](yr) con khong ?
+- minh muon mua mot chiec xe cho gia dinh
+- chao ban , ban cho minh hoi gia xe [elantra](mod) [2.0](cc) sau khi da tru het khuyen mai la bao nhieu ?
+- cho hoi xe [thaco](mak) [k200](mod) gia ntn
+- [cer[at](gear)o](mod) [1.6](cc) [at](gear) gia bn a
+- toi muon mua xe [camry](mod) [2.0](cc) doi [2012](yr)
+- toi dang muon tim mot xe [civic](mod) [2008](yr) [at](gear) [2.0](cc) [mau_hop](color) voi mang hoa EOL toi dang o [tuyen_quang](city) EOL chi co the gioi thieu duoc k
+- [honda](mak) [city](mod) gia moi bao nhieu vay EOL [so_san](gear)
+- toi ben cty thuc pham bau troi xanh EOL ben toi dang co nhu cau can dong xe [ban_tai](sty) de chuyen cho hang hoa , nho anh tu van
+- cho hoi ben ban co ban con xe nay [hyundai](mak) [porter](mod) nam [2009](yr) , [mau_xanh_lam](color) . EOL gia chi [200_trieu](price)
+- bac cho e hoi xe nay ben minh con khong a
+- cho anh hoi xe [hyundai](mak) [i10](mod) [1.2](cc)
+- chi co khoang [500_tr](price) EOL chi muon mua xe EOL nhung co nhieu y kien qua chi ko biet chon loai xe nao EOL em co the giup chi dc ko
+
+## intent:tin_vip_khuyen_mai
+- minh muon hoi goi dang tin vip pro ben ban hien nay co uu dai gi khong ?
+
+## intent:tu_van_dat_banner
+- anh muon dang banner quang cao
+- cho minh hoi ve cach dat banner nhu the nao
+- mih hoi chut EOL muon dang quang cao chay tinh tren rao vat minh thi gia sao nhi
+- minh can tu van banner
+- minh muon hoi ve quang cao tin EOL va cac phuong thuc
+
+## intent:unknown
+- sao hinh anh cua anh dang len bi mo va bi keo gian em nhi
+- minh da dang ky ban xe tren web banxehoi . com , minh muon gui tin vao khu vuc tinh [dong_nai](city) va [binh_duong](city) thi lam the nao
+- anh dang tin da chuyen phi ma mai ko nhan dc email kich hoat
+- tin chi dang r ma gio muon chuyen sang goi khac
+- yen oi , chi sua tin dang ma toan bao ko ten lien he khong hop ly thoi . EOL e xem giup chi tai khoan bi loi hay lam sao nhy ? EOL hy , quen mat chi ben salon nam chung auto
+- em ben hang xe [peugeot](mak) truoc co su dung dich vu ben minh EOL hien tai ben em dang co nhu cau su dung dich vu ben minh EOL truoc ben em co hop tac voi ben minh roi hien tai mo them dai ly nen trien khai tiep EOL chi vui long bao gia giup em qua email ve chuong trinh khuyen mai va thu tuc nhe EOL email : tienmanhbach @ gmail . com EOL dien thoai : 0945586333
+- minh dang tin ban xe EOL nhung ko thanh toan qua ngan hang dc EOL bao giao dich ko thuc hien dc EOL tin dang dang bi treo EOL nho anh chi ho tro EOL thanks
+- minh chuyen khoan de dang tin ma thay nguoi nhan la bui tuong giang
+- minh dang tin ban xe ma ko chon duoc goi thanh toan
+- web cua minh co cho dang ki chay quang cao theo thang khong
+- minh dang tin nay la no dang ca thang luon hay la ngay nao minh cung phai dang
+- cho minh hoi chut ! EOL ban xem giup minh cai nay ! EOL bxhlink EOL minh vua doc tin dang nay tren web EOL nhung so dt dang k dung so . EOL lieu ben minh co nham so hay gi k ban ?
+- sao minh ko biet minh dang duoc bao nieu tin roi nhi EOL xem ho a dc bao nhieu tin roi e EOL de a dang cho len salon luon
+- ban oi cho hoi tai khoan thuong duoc dang toi da bao nhieu tin vay
+- sao minh lui ngay dang tin vip1 ma tien ko dc hoan lai nhi
+- ben minh co chuong trinh EOL cho salon ko ah
+- ban oi EOL cho minh hoi EOL tai khoan minh con 500 k EOL ma minh dang tin vip pro EOL tai sao k dc vay
+- minh muon up tin \ EOL ma minh thay no up EOL vip1 - vip 2 j ma tu dong 5 ngay ms up tin
+- mua tai khoan vip dang dc bao nhieu tin vay ban
+- nho em chuyen giup tk km sang tk chinh de anh dang tin vip duoc ko em ?
+- chi dang dc 2 tin vip 1 roi EOL kiem tra ho c xem EOL co can chinh sua gi nua k
+- ban oi sao binh dang tin ban xe lai hien nen muc quan ly tin rao nhi EOL sao k ai tra loi nhi
+- minh co dang tin tren trang nhung dang tin xong minh ko biet cach xem lai tin da dang cua minh . mong ban tro giup . thanks
+- cho anh hoi la EOL anh dang dang tin quang cao xe tren banxehoi . com EOL minh co kiem tra dc la co bao nhieu luot xem khong ?
+- cho hoi , minh su dung tien khuyen mai tu ma banxehoi de mua goi tin thi click vao dau ?
+- minh vao den nap tien de dang tin ma khong duoc
+- toi vua dang tin EOL muon kiem tra tin cua minh vua dang thi kiem tra cach nao
+- minh vua co dang thong tin ban xe ko biet co dc luu tren ht ko nhi
+- de dang dc tin co tieu de [mau_vang](color) va do thi phai lam sao
+- sao tin dang cua minh bi ban ma ko biet duoc nguyen nhan EOL bxhlink
+- kiem tra minh dang 10 tin trong thang 7 ma chua co thuong 200 k ban oi
+- luc nao co goi vip ho tro up tin hang ngay bao a nhe
+- hi van anh ! cho minh hoi la trong tai khoan minh con 208 ngan , neu qua thang minh moi dang tin thi co bi mat ko a ?
+- minh hoi ty EOL tai khoan minh van con tien EOL sao k dang dc tin vip
+- ban cho minh hoi minh da khai het thong tin dang ban xe nhung muon xem truoc thi khong duoc
+- bxhlink EOL ban xem lai ho minh ma tin nay vs , minh dang tin ro rang la [555_trieu](price) sao luc hien len lai co [13_trieu](price)
+- ban oi web dang k dang dc bai ah
+- bxhlink EOL kiem tra giup minh EOL minh dang tin vip 1 30 ngay EOL bao thieu tai khoan EOL ban gop tai khoan km + tk chinh vao giup minh
+- minh hoi muon dang tin vip ban o to , thi hinh thuc thanh toan va tin cua minh se hien thu may ban nhi
+- ban xem giup ho ma tin 1046344 cua toi dang tu hom 24 / 9 toi thay khong tu dong up len ngay moi ban ah ( hn [van](sty) nam o ngay 24 ban ah ) , ban xem giup , thank you ban nhieu !
+- chi kiem tra giup em trong t . gian khuyen mai y EOL em dang duoc bao tin roi
+- cho hoi gio toi muon tao quang cao tren trang , nghia la tao 1 gian hang quang cao ay
+- cho minh hoi EOL minh dang dang tin EOL ma phan thong tin lien lac EOL bat minh nhap sdt trong tin dang 1 ( * ) EOL ma minh tim hoai k thay 1 * dau
+- chao sp , kiem tra gium toi xe [mazda](mak) [cx5](mod) [2.0](cc) [at](gear) ma so id : 1806206 EOL hien thi len tin vip nhung khi nhap vao link de coi xe thi no ra muc nay : bxhlink chu no khong ra cai link hien thi thong tin , hinh anh xe
+- anh mua goi vip 2 EOL sao chua thay bao ok nhi
+- toi dang ki ban xe dung loai vip 1 ( 216.000 d ) toi dung [apv](mod) tren dien thoai nen duoc tang 200 k con thieu 16 k nen toi di mua the 20 de nap . nhung khi nap lan dau thi bao loi roi nap lai thi ung dung bao the da dung hoac khong ton tai
+- tren trang cua minh up tin len o cho nao vay
+- cho minh hoi dang tin thuong ay thi 1 ngay minh dang bnhieu tin cung dc a ban
+- ban oi cho minh hoi minh moi nap tien vao de dang lai tin cu thi dang ntn ha ban
+- anh dang tin sao cu chi ban sua tin hoai vay em ?
+- ban cho minh hoi minh dang duoc bao nhieu tin roi nhi ?
+- chao ban , minh ben salon nam chung . tu chieu den gio minh ko dang tin ban xe duoc . ban xem lai tinh trang tai khoan giup minh voi . . . hay loi gi nhi ? EOL no co bao la sai thong tin lien lac mai thoi , minh da dang xuat roi dang nhap lai may lan roi .
+- anh hoi cai EOL sao tk cua a moi nap 100 k ma da het roi em
+- sao minh dang tin nhung no ko nhay qua trang khac ma van o trang dang tin EOL ban huong dan minh voi
+- ban oi EOL tai sao tk cua minh con thua 64 k , ma minh ko dung no de dang tin le duoc a EOL hoac minh tiep tuc mua goi vip pro nhung ko duoc tru 64 k day a
+- hi yen , minh dang tin ban xe tren web banxehoi nhung khi nhap ma xac nhan thi ko the xem truoc hay dang tin dc . ban ho tro minh dc ko
+- minh thac mac la tai sao bao gia tin rao vip 1 la 240 k ma sao thanh toan lai la 800 k / 2 thang
+- chi oi e nap tien bang card dien thoai thi co khuyen mai j k a
+- da em muon hoi mua goi vip 1 800 ngan su dung trong 2 thang la dang 1 tin hay bao nhieu tin chi ?
+- cho minh hoi dang ki goi 1 tr2 1 / thang EOL quyen loi tin rao dang tren fanpage nghia la the nao
+- toi co 1 tin dang ban xe duoc dang tuan truoc nhung luc do t chua co tai khoan nen khong quan ly tin duoc EOL do do khong sua tin duoc EOL va toi cung khong xoa duoc tin da dang truoc do EOL do do toi tao tai khoan venture @ gmail . com va dang tin moi thi khong duoc duyet tin , nho cac ban ho tro
+- e oi , tin dang k dc kiem duyet la do ntn vay e
+- sao a co 250 k trong tk ma ko dang duoc tin vip 1 10 ngay em nhi
+- e oi cho a hoi sao tk a co 288 k ma a dang tin vip 1 ko duoc vay e
+- tin rao cua cac ban ko the lien lac duoc
+- toi khong dang tin duoc EOL co truong loai xe bi loi khong nhap loai xe vao duoc
+- minh up tin EOL nhung do tin cua minh thieu anh EOL minh chinh sua lai tin dang sao lai tinh thanh tin moi va tru tien vay ban
+- neu a dang ki tin vip chung EOL ma muon dang 3 so dt khac nhau duoc khong EOL cu 2 xe 1 so dt EOL neu duoc thi se ghi sdt trong tin hay ngoai thong tin ca nhan
+- hiii team . . . . em thay doi sdt lien he cho anh nhe EOL ma tin 2056066 doi sdt tu 0901998228 concat 0934104612 nhe
+- ma tin 2071017 minh moi dang dang doi duyet , mong bqt de gium gia lien he . xin cam on
+- ma tin : 788680 EOL minh co 1 tin dang ma tin tren EOL xem giup minh con han ko nhe
+- can tu van dang tin lien he lai tu van nhe . 0898 829 000
+- [trax](mod) lai giup a tin 1136223 a co sua thanh tin vip 1 roi ma sao k dc
+- minh co dang tin ma so 799854 EOL tai sao minh k up tin lam moi dc nhi
+- bxhlink EOL a muon quang cao so dien thoai cua minh vao bai viet tren a gui day
+- sao trang minh bay gio cho up co 1 tin 1 ngay thoi ha em ?
+- a dang dc 2 tin roi EOL gio a muon up tin thi lam sao vay e
+- minh co chut thac mac can giai dap EOL minh k tim thay phan quan ly salon
+- minh dang ki la thanh vien cua banxehoi . com EOL minh se dc dang tin mien phi nhu the nao EOL va chinh sach sau khi het tin mien phi thi sao a
+- 1229236 to muon biet tai sao tin nay cua toi bi ha EOL trong khi tin bao trung la 1 phien ban khac
+- anh oi em muon tim lai nhung tin ma em da dang thi em lam sao vay ?
+- minh co dang ki vip 2 , nhung hien tai minh muon tim cach nao hieu qua hon ti EOL vi thay goi hoi han che EOL ban co the tu van cho minh duoc khong
+- cho minh hoi , tai khoan minh con 305.600 sao ko dang dc tin vay
+- alo em oi anh co dang tin tuc voi ma tin 2061443 khi anh nhan vao no ko hien ra tin dang cua anh ma lai ra mot link khac em ah
+- chuong trinh dang tin ben em hien tai nhu the nao , anh muon lam tren thi truong [lao_cai](city)
+- minh da dang 25 tin , ban giup mo salon giup minh
+- minh co 2 tin dang tai tai khoan nay , minh van chua nhan dc kich hoat ha ban
+- nghi chua e ? EOL a dang tin vip 1 7 ngay EOL sao do a up tin len hay phai gia han them e ?
+- chao ban hien minh dang co nhu cau dang tin ban xe tren web EOL minh xem bang gia phi thi co mot so thac mac EOL minh thay phan vip2 co de la quote phi up tin tu dong / lan = 10.000 d quote EOL tan suat up tin cua minh la 5 ngay / lan EOL 2 cai nay co lien quan gi toi nhau khong vay ban ?
+- bxhlink EOL em oi xe nay xe cua a EOL e dang gia sai EOL nguoi ta goi anh qua troi EOL xe nay gia [590_tr](price) chu ko pai [300_tr](price) nha e
+- neu a dang ky qc ban binh thuong sau do moi nang cap len cac goi vip thi co dc ko EOL ok . tk e
+
+## intent:xoa_tin
+- toi khong muon ban xe nua , lam cach nao de xoa tin da dang , xin cam on .
+- vui long xoa tin xe nay giup minh nhe xe minh ban roi . minh da xoa tin dang nhung van con may tin EOL 1905044 EOL 1897092 EOL 1896566
+- toi co dang tin ban xe tren trang web nay EOL hien tai ko muon ban nua EOL lam sao xoa tin ban nhi ? EOL thanks
+- chi oi , em co dang ky 1 tai khoan tren banxehoi . com , ten hang nguyen , sdt 0981462464 . hien tai em k nho email ma em da dung de dang ky thi phai lam sao a ? vi em co dang 1 tin ban xe hoi , hien tai muon go xuong nhung k dc . mong nhan duoc su giup do tu chi a !
+- xoa giup thong tin xe [bmw](mak) [318i](mod) da ban so 51a 85072 . thanks ! EOL ma tin 806643
+- nho ban go tin ban [toyota](mak) san xuat [2014](yr) [mau_den](color) nhap khau giup minh duoc khong EOL minh da dien sai thong tin tren xe EOL nen nho ban go tin do xuong gium minh voi
+- minh nho chut EOL minh co rao ban xe [landcruiser](mod) tren bonbanh , duoc chuyen tiep vao trang nay , minh ban roi . ban co the xoa di ho minh duoc ko ?
+- chi lam on xoa tin xe 0971132776 giup minh nha . xe minh da ban roi
+- hom qua a co dang tin EOL tin vip 1 EOL gio co kem ca tin a dang sai EOL a muon he thong xoa tin dang sai dum a cai
+- minh ban xe roi jo lam sao de xoa nhung thong tin cu a
+- xin nho a xoa dum tin ban xe [bmw](mak) [x5](mod) co nhung so dien thoai sau , , 0912721122 , , , , , 0977232548 . . . . 09777878223 . . . vi xe da ban nhung xoa khong duoc khach goi hoi mua , , , xin chan thanh cam on a dung EOL da day la 1 xe thoi a
+- bxhlink EOL xe nay minh ban roi EOL ban an tin di ho minh voi
+- anh muon xoa mot so ma tin cu & map ; giu lai tin moi nhat co duoc khong em
+- hi , minh co dang rao ban xe tren banxehoi . com , nhung thay co nhieu tin trung lap tren trang . trong tk khong thay co , ban xoa giup minh de lai 1 tin thoi nhe . cam on ban nhiu
+- xin xoa tin ma so 1712233 EOL vi so dien thoai bi lam phien EOL cam on nhieu
+- ma tin 618359 nho may add xoa gium em nhe EOL tin do la khong dung noi dung voi em ,
+- minh vua dang tin ban xe [mazda](mak) [626](mod) ngay hom qua : 321727 EOL tin nay bi trung voi cac tin minh dang truoc day : 290203 , 265472 , 207507 . cac ban xoa giup may tin nay di cho minh nhe
+- toi khong muon ban xe nua , lam cach nao de xoa tin da dang
+- hi van anh , hom truoc minh co nho banxehoi xoa giup tin dang ban xe [kia](mak) [sportage](mod) doi [2015](yr) trang gia dang [785_trieu](price) dong . 1 ban tu van hua se xoa giup nhung sao 2 ngay nay minh kiem tra tin khong bi xoa ! van anh co the giup xoa bo tin vi gia dinh da ban duoc xe roi !
+- minh vua goi dien EOL keo giup minh ma tin 1869399 xuong nhe
+- day la xe toi ban , banxehoi tu y lay tu chotot dang sang ben day , toi da ban dc xe roi mong banxehoi xoa giup toi tin nay :
+- vui long an giup minh xe [haima3](ver) [mau_do](color) bien kiem soat 15a 169 . 97
+- alo a min EOL sdt 0993979009 la sdt cua minh , tin ban xe cua minh ben trang ban nhieu lam ma hau nhu xe da ban rat lau roi , lam on xoa giup minh het , de khach hang cu alo hoai
+- minh ben duc thien auto EOL hqua minh co xoa 1 tin ban xe EOL nhung hien tai kiem tra thi van hien thi tren trang ben ban EOL ban xoa giup minh tin nay di nhe
+- chao tvv , minh muon xoa tin nhung ko biet cach , mong dc chi giup
+- minh muon xoa tin thi nhu the nao
+- ban dung oi xoa ho minh tin dang ma 1302732 duoc ko xe minh da mua
+- minh co mot tin dang rao [ban_tai](sty) EOL banxehoi . com EOL bay gio minh muon xoa tin nay EOL mong ban tu van giup minh
+- minh muon dong tin nay ko ban nua EOL bxhlink
+- bxhlink EOL minh da ban duoc xe nay roi EOL ban go bai giup minh duoc ko
+- minh dang rao ban chiec [honda](mak) [civic](mod) [2.0](cc) doi [2007](yr) [mau_bac](color) EOL nhung khong hieu ai mao danh minh dang hinh xe minh dua len trang web nay va doi thanh [mau_xam](color) EOL da vay lai ghi la so km da chay la 119.999 km ? EOL ban co the go giup 2 bai dang do duoc kg ?
+- ban oi , phien ad xoa giup minh tin nay voi bxhlink EOL va tin nay nua bxhlink EOL minh ban dc xe roi , khach van goi ma k xoa duoc , nho ad giup nhe
+- sao em xoa het tin dang roi ma nhap sdt vo no van hien len tim kiem cua google vay chi ? thanks chi EOL chi kiem tra roi xoa het dum em duoc khong chi ? thanks chi
+- xoa dum minh ma tin nay voi 305861 EOL khong ro ai dang bang so cua minh
+- chao ban . minh da ban duoc xe [ford](mak) [maserati](mak) [1.8](cc) . nen cac ban go tin giup minh nhe EOL ma tin 756999 EOL cho hoi ben cty co tuyen [cvt](gear) ko ban
+- go tin giup minh dc ko EOL ai dang sdt cua minh khach goi suot ngay rat la phien
+- bxhlink EOL vui long xoa tin dang nay dum EOL tui dang su dung xe nay
+- ban oi cho minh hoi tai sao tin dang minh xoa lau roi ma gio van con hien len google ? nhu vay minh se bi vi pham mat . . . ban xoa giup minh voi , thanks ban .
+- e xoa giup anh tin nay hoac an hoan toan so dien thoai cua anh giup anh voi EOL bxhlink
+- e xoa giup a tin nay nhe quote 1667313 quote vi a da mua lai , thank
+- toi muon xoa het tin dang cua toi bang so dien thoai 0919384169
+- ngay 13 / 8 / 2018 toi co dang tin ban xe , nho vay ma toi da ban duoc xe nhanh chong . toi rat cam on . nay toi muon go tin nay , vui long huong dan giup toi ! xin cam on
+- chao ban , minh can xoa tin dang co ma so 1380532 EOL xe nay minh ban lau roi ma tin chua duoc xoa
+- em oi , xe anh ban duoc roi , em xoa tin giup anh nhe . ma tin la : 603118 , cam on em . EOL chu xe la phi hung , [el](ver) : 0936248326 , phu dien , bac tu liem . em xoa tin giup anh nhe , cam on em .
+- minh co dang bai ban xe EOL nhung hien tai xe da ban duoc EOL nen muon nho ad go bai giup minh EOL minh search keyword thi thay 2 bai nay : bxhlink EOL otherlink EOL mong phan hoi tu ad
+- cho anh nho chut xiu duoc khong ngoc yen EOL nho em go cho anh ma tin : 1673278 xuong duoc khong ? anh ban xe roi
+- xe da ban xin xoa bai EOL bxhlink
+- cho minh hoi EOL minh can xoa 1 bai dang truoc lien quan toi sdt cua minh co duoc khong ad
+- yeu cau xoa gap ma tin nay : 608830 EOL vi dang sai tin
+- ma tin 2044201 . xe da ban
+- hi ban , ban vui long go tin nay ra dum minh EOL bxhlink EOL minh cam on ban
+- toi da ban xe ( ma tin : 1343543 ) . de nghi admin trang xoa tin dang hoac chu thich xe da ban . thanks !
+- toi muon huy thong tin ban xe lam the nao EOL ma tin : 1797736 EOL va xe da ban
+- cho minh hoi muon xoa nhung tin truoc minh dang ma khong dang nhap thi phai lam sao ban
+- minh ko co dang tin ban xe tren web banxehoi . com EOL va hien tai xe cung da ban xong EOL minh nho ban xoa link web gium minh EOL bxhlink EOL va link nay EOL bxhlink
+- em muon xoa cac tin het han thi lam the nao
+- co vai tin dang rao ban xe [[honda](mak)](mak) [[city](mod)](mod) tieu de la [[honda](mak)](mak) [[city](mod)](mod) xe nhap j do EOL k phai a dang ma thong tin o duoi de la so dien thoai va ten a EOL e xoa giup a nhe
+- lam the nao de xoa muc tin dang
+- xin add xoa giup tin minh dang tren chotot lai co trong banxehoi . com , xe da ban lau roi a . thanks EOL chi yen oi so dt 0962911879 goi chi roi do . giup huy tin giup em nhe
+- toi muon xoa tin da dang EOL vui long huong dan giup EOL ma tin : 1895244
+- toi xin xoa tin dang ban xe tren trang web cua minh phai lam nhu the nao ?
+- bxhlink EOL xe nay cua minh da ban roi nhe EOL add xoa tin dum nhe EOL ko biet sao tin nay lai duoc dang tren day ma ko he hoi y kien chu xe nua
+- nho a / c xoa them ma tin 346912
+- ma tin 618359 may add xoa gium em voi EOL tin do khong phai em dang EOL nguoi ta dang so cua em EOL noi dung khong dung
+- minh co may tin can xoa lam sao xoa bay gio
+- bxhlink EOL lam on go trang nay EOL tui ko dang tin nay 2 EOL tui dang tren chotot va da ban lau roi
+- toi khong muon ban xe nua , xin hoi lam cach nao de xoa tin da dang xin cam on .
